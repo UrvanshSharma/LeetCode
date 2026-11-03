@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-03T01:21:08.922Z",
+  "updatedAt": "2026-11-03T01:21:49.152Z",
   "problems": [
     {
       "frontendId": "225",
@@ -44,6 +44,26 @@
           "path": "0394-decode-string/0394-decode-string.java",
           "sha": "193dee0edcaf62a60319be310df3859c405b13d6",
           "lastSyncedAt": "2026-11-03T01:20:53.642Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "735",
+      "title": "Asteroid Collision",
+      "slug": "asteroid-collision",
+      "problemName": "0735-asteroid-collision",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision/",
+      "folderPath": "0735-asteroid-collision/",
+      "readmePath": "0735-asteroid-collision/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0735-asteroid-collision.java",
+          "path": "0735-asteroid-collision/0735-asteroid-collision.java",
+          "sha": "bfcc4b9d6e76dcb839068294daf4815f60f06e2a",
+          "lastSyncedAt": "2026-11-03T01:21:49.152Z"
         }
       ]
     }
