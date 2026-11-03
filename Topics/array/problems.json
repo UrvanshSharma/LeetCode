@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-03T01:22:54.651Z",
+  "updatedAt": "2026-11-03T01:23:08.052Z",
   "problems": [
     {
       "frontendId": "36",
@@ -84,6 +84,26 @@
           "path": "0735-asteroid-collision/0735-asteroid-collision.java",
           "sha": "bfcc4b9d6e76dcb839068294daf4815f60f06e2a",
           "lastSyncedAt": "2026-11-03T01:21:49.152Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "739",
+      "title": "Daily Temperatures",
+      "slug": "daily-temperatures",
+      "problemName": "0739-daily-temperatures",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/daily-temperatures/",
+      "folderPath": "0739-daily-temperatures/",
+      "readmePath": "0739-daily-temperatures/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0739-daily-temperatures.java",
+          "path": "0739-daily-temperatures/0739-daily-temperatures.java",
+          "sha": "149f913d51b85d722bcb4b0e3a28e436c2a3050d",
+          "lastSyncedAt": "2026-11-03T01:23:08.052Z"
         }
       ]
     }
