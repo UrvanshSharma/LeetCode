@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-03T01:21:22.940Z",
+  "updatedAt": "2026-11-03T01:21:49.152Z",
   "problems": [
     {
       "frontendId": "215",
@@ -24,6 +24,26 @@
           "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
           "sha": "04f383c35ea1da822fce8f55f3b58e6973522bb5",
           "lastSyncedAt": "2026-11-03T01:21:22.940Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "735",
+      "title": "Asteroid Collision",
+      "slug": "asteroid-collision",
+      "problemName": "0735-asteroid-collision",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/asteroid-collision/",
+      "folderPath": "0735-asteroid-collision/",
+      "readmePath": "0735-asteroid-collision/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0735-asteroid-collision.java",
+          "path": "0735-asteroid-collision/0735-asteroid-collision.java",
+          "sha": "bfcc4b9d6e76dcb839068294daf4815f60f06e2a",
+          "lastSyncedAt": "2026-11-03T01:21:49.152Z"
         }
       ]
     }
