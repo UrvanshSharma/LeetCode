@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-03T01:22:35.341Z",
+  "updatedAt": "2026-11-03T01:24:24.473Z",
   "problems": [
     {
       "frontendId": "94",
@@ -84,6 +84,26 @@
           "path": "0515-find-largest-value-in-each-tree-row/0515-find-largest-value-in-each-tree-row.java",
           "sha": "3f3941bad4ba085e08d58aa61b235f9397e34e3b",
           "lastSyncedAt": "2026-11-03T01:21:59.905Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "572",
+      "title": "Subtree of Another Tree",
+      "slug": "subtree-of-another-tree",
+      "problemName": "0572-subtree-of-another-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/subtree-of-another-tree/",
+      "folderPath": "0572-subtree-of-another-tree/",
+      "readmePath": "0572-subtree-of-another-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0572-subtree-of-another-tree.java",
+          "path": "0572-subtree-of-another-tree/0572-subtree-of-another-tree.java",
+          "sha": "b25c1dce3ebbe23ee4a79d23932e091148768188",
+          "lastSyncedAt": "2026-11-03T01:24:24.473Z"
         }
       ]
     }
