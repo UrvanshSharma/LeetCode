@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-table",
+    "name": "Hash Table",
+    "tagId": "6"
+  },
+  "updatedAt": "2026-11-03T01:22:54.651Z",
+  "problems": [
+    {
+      "frontendId": "36",
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "problemName": "0036-valid-sudoku",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku/",
+      "folderPath": "0036-valid-sudoku/",
+      "readmePath": "0036-valid-sudoku/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0036-valid-sudoku.java",
+          "path": "0036-valid-sudoku/0036-valid-sudoku.java",
+          "sha": "c11b11a59a7faad52eb67fea1fc92c49da2da7f2",
+          "lastSyncedAt": "2026-11-03T01:22:54.651Z"
+        }
+      ]
+    }
+  ]
+}
