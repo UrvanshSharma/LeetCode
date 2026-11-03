@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-03T01:21:49.152Z",
+  "updatedAt": "2026-11-03T01:23:53.759Z",
   "problems": [
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "0067-add-binary/",
+      "readmePath": "0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0067-add-binary.java",
+          "path": "0067-add-binary/0067-add-binary.java",
+          "sha": "934115148700e8e81b07fecc1eb2d8e837cbfbf7",
+          "lastSyncedAt": "2026-11-03T01:23:53.759Z"
+        }
+      ]
+    },
     {
       "frontendId": "735",
       "title": "Asteroid Collision",
