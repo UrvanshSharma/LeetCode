@@ -5,8 +5,28 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-03T01:20:43.215Z",
+  "updatedAt": "2026-11-03T01:22:45.481Z",
   "problems": [
+    {
+      "frontendId": "51",
+      "title": "N-Queens",
+      "slug": "n-queens",
+      "problemName": "0051-n-queens",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/n-queens/",
+      "folderPath": "0051-n-queens/",
+      "readmePath": "0051-n-queens/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0051-n-queens.java",
+          "path": "0051-n-queens/0051-n-queens.java",
+          "sha": "0b29f5827188471485aa6e487bdef0ba2e92325a",
+          "lastSyncedAt": "2026-11-03T01:22:45.481Z"
+        }
+      ]
+    },
     {
       "frontendId": "52",
       "title": "N-Queens II",
