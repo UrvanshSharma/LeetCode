@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-03T01:24:15.499Z",
+  "updatedAt": "2026-11-03T01:25:03.207Z",
   "problems": [
     {
       "frontendId": "58",
@@ -44,6 +44,26 @@
           "path": "0067-add-binary/0067-add-binary.java",
           "sha": "934115148700e8e81b07fecc1eb2d8e837cbfbf7",
           "lastSyncedAt": "2026-11-03T01:23:53.759Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "257",
+      "title": "Binary Tree Paths",
+      "slug": "binary-tree-paths",
+      "problemName": "0257-binary-tree-paths",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-paths/",
+      "folderPath": "0257-binary-tree-paths/",
+      "readmePath": "0257-binary-tree-paths/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0257-binary-tree-paths.java",
+          "path": "0257-binary-tree-paths/0257-binary-tree-paths.java",
+          "sha": "66219376123b4d80ca2d1ac585492e3703f003ca",
+          "lastSyncedAt": "2026-11-03T01:25:03.207Z"
         }
       ]
     },
