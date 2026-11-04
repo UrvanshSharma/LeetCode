@@ -5,7 +5,7 @@
     "name": "Binary Search Tree",
     "tagId": "30"
   },
-  "updatedAt": "2026-11-04T08:00:50.330Z",
+  "updatedAt": "2026-11-04T08:02:27.825Z",
   "problems": [
     {
       "frontendId": "530",
@@ -24,6 +24,26 @@
           "path": "0530-minimum-absolute-difference-in-bst/0530-minimum-absolute-difference-in-bst.java",
           "sha": "d7daa6367b8709816a3b3b731c3b98bf68f2e6b1",
           "lastSyncedAt": "2026-11-04T08:00:50.330Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "700",
+      "title": "Search in a Binary Search Tree",
+      "slug": "search-in-a-binary-search-tree",
+      "problemName": "0700-search-in-a-binary-search-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+      "folderPath": "0700-search-in-a-binary-search-tree/",
+      "readmePath": "0700-search-in-a-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0700-search-in-a-binary-search-tree.java",
+          "path": "0700-search-in-a-binary-search-tree/0700-search-in-a-binary-search-tree.java",
+          "sha": "e54775f7df00b20fcf8f75f3e127680d76d2d0f7",
+          "lastSyncedAt": "2026-11-04T08:02:27.825Z"
         }
       ]
     }
