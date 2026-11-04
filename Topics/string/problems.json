@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-04T08:35:49.294Z",
+  "updatedAt": "2026-11-04T08:36:25.352Z",
   "problems": [
     {
       "frontendId": "5",
@@ -124,6 +124,26 @@
           "path": "0067-add-binary/0067-add-binary.java",
           "sha": "934115148700e8e81b07fecc1eb2d8e837cbfbf7",
           "lastSyncedAt": "2026-11-04T08:18:13.893Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "76",
+      "title": "Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "problemName": "0076-minimum-window-substring",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
+      "folderPath": "0076-minimum-window-substring/",
+      "readmePath": "0076-minimum-window-substring/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0076-minimum-window-substring.java",
+          "path": "0076-minimum-window-substring/0076-minimum-window-substring.java",
+          "sha": "c0aec4b486a8efc8d241f3702f56e8eb1ed3b062",
+          "lastSyncedAt": "2026-11-04T08:36:25.352Z"
         }
       ]
     },
