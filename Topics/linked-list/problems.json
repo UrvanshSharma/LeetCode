@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-04T08:12:32.582Z",
+  "updatedAt": "2026-11-04T08:12:43.887Z",
   "problems": [
     {
       "frontendId": "19",
@@ -44,6 +44,26 @@
           "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.java",
           "sha": "3252fb10f2e9d242fbbca8e4194d286b7300d385",
           "lastSyncedAt": "2026-11-04T08:05:08.020Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "92",
+      "title": "Reverse Linked List II",
+      "slug": "reverse-linked-list-ii",
+      "problemName": "0092-reverse-linked-list-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list-ii/",
+      "folderPath": "0092-reverse-linked-list-ii/",
+      "readmePath": "0092-reverse-linked-list-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0092-reverse-linked-list-ii.java",
+          "path": "0092-reverse-linked-list-ii/0092-reverse-linked-list-ii.java",
+          "sha": "cc4ef3835c32b34647e444876443f2b6a5e25274",
+          "lastSyncedAt": "2026-11-04T08:12:43.887Z"
         }
       ]
     },
