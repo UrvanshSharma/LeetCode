@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T08:44:29.369Z",
+  "updatedAt": "2026-11-04T08:44:38.232Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1064,6 +1064,26 @@
           "path": "1413-minimum-value-to-get-positive-step-by-step-sum/1413-minimum-value-to-get-positive-step-by-step-sum.java",
           "sha": "c6d16da8b69bb3539d2552b3be5db04d30e47285",
           "lastSyncedAt": "2026-11-04T08:40:32.999Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1572",
+      "title": "Matrix Diagonal Sum",
+      "slug": "matrix-diagonal-sum",
+      "problemName": "1572-matrix-diagonal-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/matrix-diagonal-sum/",
+      "folderPath": "1572-matrix-diagonal-sum/",
+      "readmePath": "1572-matrix-diagonal-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1572-matrix-diagonal-sum.java",
+          "path": "1572-matrix-diagonal-sum/1572-matrix-diagonal-sum.java",
+          "sha": "405096aa903eca53f4dd97f7d56087f32a22893f",
+          "lastSyncedAt": "2026-11-04T08:44:38.232Z"
         }
       ]
     },
