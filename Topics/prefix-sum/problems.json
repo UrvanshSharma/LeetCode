@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-04T08:40:18.987Z",
+  "updatedAt": "2026-11-04T08:40:32.999Z",
   "problems": [
     {
       "frontendId": "303",
@@ -84,6 +84,26 @@
           "path": "0724-find-pivot-index/0724-find-pivot-index.java",
           "sha": "6f9b4b360bb388c4082f4a3e387f1dccf453fea9",
           "lastSyncedAt": "2026-11-04T08:38:05.223Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1413",
+      "title": "Minimum Value to Get Positive Step by Step Sum",
+      "slug": "minimum-value-to-get-positive-step-by-step-sum",
+      "problemName": "1413-minimum-value-to-get-positive-step-by-step-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/",
+      "folderPath": "1413-minimum-value-to-get-positive-step-by-step-sum/",
+      "readmePath": "1413-minimum-value-to-get-positive-step-by-step-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1413-minimum-value-to-get-positive-step-by-step-sum.java",
+          "path": "1413-minimum-value-to-get-positive-step-by-step-sum/1413-minimum-value-to-get-positive-step-by-step-sum.java",
+          "sha": "c6d16da8b69bb3539d2552b3be5db04d30e47285",
+          "lastSyncedAt": "2026-11-04T08:40:32.999Z"
         }
       ]
     },
