@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-04T08:00:09.571Z",
+  "updatedAt": "2026-11-04T08:05:25.882Z",
   "problems": [
+    {
+      "frontendId": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "problemName": "0007-reverse-integer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+      "folderPath": "0007-reverse-integer/",
+      "readmePath": "0007-reverse-integer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0007-reverse-integer.java",
+          "path": "0007-reverse-integer/0007-reverse-integer.java",
+          "sha": "4112ea5c57d519b65c7fc59ccf413df297bd55bf",
+          "lastSyncedAt": "2026-11-04T08:05:25.882Z"
+        }
+      ]
+    },
     {
       "frontendId": "66",
       "title": "Plus One",
