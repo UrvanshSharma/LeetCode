@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-04T08:05:17.936Z",
+  "updatedAt": "2026-11-04T08:05:31.276Z",
   "problems": [
     {
       "frontendId": "20",
@@ -124,6 +124,26 @@
           "path": "0257-binary-tree-paths/0257-binary-tree-paths.java",
           "sha": "66219376123b4d80ca2d1ac585492e3703f003ca",
           "lastSyncedAt": "2026-11-04T08:01:01.452Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "290",
+      "title": "Word Pattern",
+      "slug": "word-pattern",
+      "problemName": "0290-word-pattern",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/word-pattern/",
+      "folderPath": "0290-word-pattern/",
+      "readmePath": "0290-word-pattern/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0290-word-pattern.java",
+          "path": "0290-word-pattern/0290-word-pattern.java",
+          "sha": "6f7503bef89aa822a5b187b2fe549c41f2c226d9",
+          "lastSyncedAt": "2026-11-04T08:05:31.276Z"
         }
       ]
     },
