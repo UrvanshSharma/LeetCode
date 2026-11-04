@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "number-theory",
+    "name": "Number Theory",
+    "tagId": "61067"
+  },
+  "updatedAt": "2026-11-04T08:12:32.582Z",
+  "problems": [
+    {
+      "frontendId": "2807",
+      "title": "Insert Greatest Common Divisors in Linked List",
+      "slug": "insert-greatest-common-divisors-in-linked-list",
+      "problemName": "2807-insert-greatest-common-divisors-in-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/",
+      "folderPath": "2807-insert-greatest-common-divisors-in-linked-list/",
+      "readmePath": "2807-insert-greatest-common-divisors-in-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2807-insert-greatest-common-divisors-in-linked-list.java",
+          "path": "2807-insert-greatest-common-divisors-in-linked-list/2807-insert-greatest-common-divisors-in-linked-list.java",
+          "sha": "b349305cdc1cb5c2b37c92793aeef14bb1effa18",
+          "lastSyncedAt": "2026-11-04T08:12:32.582Z"
+        }
+      ]
+    }
+  ]
+}
