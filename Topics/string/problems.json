@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-04T08:18:13.893Z",
+  "updatedAt": "2026-11-04T08:18:44.581Z",
   "problems": [
     {
       "frontendId": "17",
@@ -223,7 +223,7 @@
           "filename": "0345-reverse-vowels-of-a-string.java",
           "path": "0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.java",
           "sha": "5e54c3da1776ebb6ff883dc2a04d07d6baac2bd8",
-          "lastSyncedAt": "2026-11-04T08:00:27.714Z"
+          "lastSyncedAt": "2026-11-04T08:18:44.581Z"
         }
       ]
     },
