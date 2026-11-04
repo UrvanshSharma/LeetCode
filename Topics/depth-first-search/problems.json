@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-04T08:00:32.490Z",
+  "updatedAt": "2026-11-04T08:00:50.330Z",
   "problems": [
     {
       "frontendId": "94",
@@ -123,7 +123,7 @@
           "filename": "0530-minimum-absolute-difference-in-bst.java",
           "path": "0530-minimum-absolute-difference-in-bst/0530-minimum-absolute-difference-in-bst.java",
           "sha": "d7daa6367b8709816a3b3b731c3b98bf68f2e6b1",
-          "lastSyncedAt": "2026-11-03T01:24:49.839Z"
+          "lastSyncedAt": "2026-11-04T08:00:50.330Z"
         }
       ]
     },
