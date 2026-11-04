@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T08:08:00.373Z",
+  "updatedAt": "2026-11-04T08:08:08.848Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "0040-combination-sum-ii/0040-combination-sum-ii.java",
           "sha": "bfcea0e07f6a26e50db30b8094fde94eb217d1a9",
           "lastSyncedAt": "2026-11-04T08:07:18.023Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "46",
+      "title": "Permutations",
+      "slug": "permutations",
+      "problemName": "0046-permutations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations/",
+      "folderPath": "0046-permutations/",
+      "readmePath": "0046-permutations/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0046-permutations.java",
+          "path": "0046-permutations/0046-permutations.java",
+          "sha": "7372d9a42e268e9469ba1feab70b0d357073ba60",
+          "lastSyncedAt": "2026-11-04T08:08:08.848Z"
         }
       ]
     },
