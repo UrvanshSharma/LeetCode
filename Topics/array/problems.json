@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T08:27:34.734Z",
+  "updatedAt": "2026-11-04T08:28:40.307Z",
   "problems": [
     {
       "frontendId": "1",
@@ -443,7 +443,7 @@
           "filename": "0287-find-the-duplicate-number.java",
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.java",
           "sha": "130a48a979bffed52a9f55af81158006c8558d2b",
-          "lastSyncedAt": "2026-11-04T08:10:53.165Z"
+          "lastSyncedAt": "2026-11-04T08:28:40.307Z"
         }
       ]
     },
