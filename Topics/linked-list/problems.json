@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-04T08:12:43.887Z",
+  "updatedAt": "2026-11-04T08:12:49.252Z",
   "problems": [
     {
       "frontendId": "19",
@@ -124,6 +124,26 @@
           "path": "0203-remove-linked-list-elements/0203-remove-linked-list-elements.java",
           "sha": "b7a837c8c8f9f0ed9d616a14843947bc7c794607",
           "lastSyncedAt": "2026-11-04T08:10:45.848Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "725",
+      "title": "Split Linked List in Parts",
+      "slug": "split-linked-list-in-parts",
+      "problemName": "0725-split-linked-list-in-parts",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/split-linked-list-in-parts/",
+      "folderPath": "0725-split-linked-list-in-parts/",
+      "readmePath": "0725-split-linked-list-in-parts/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0725-split-linked-list-in-parts.java",
+          "path": "0725-split-linked-list-in-parts/0725-split-linked-list-in-parts.java",
+          "sha": "9dbfbea218120e99fcd127e2d31046058a67de28",
+          "lastSyncedAt": "2026-11-04T08:12:49.252Z"
         }
       ]
     },
