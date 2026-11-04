@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-04T08:34:16.622Z",
+  "updatedAt": "2026-11-04T08:37:06.278Z",
   "problems": [
     {
       "frontendId": "4",
@@ -64,6 +64,26 @@
           "path": "0162-find-peak-element/0162-find-peak-element.java",
           "sha": "992fd89b6e74a20ec7392f859b77ff99ea154b17",
           "lastSyncedAt": "2026-11-04T08:34:16.622Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "problemName": "0167-two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "folderPath": "0167-two-sum-ii-input-array-is-sorted/",
+      "readmePath": "0167-two-sum-ii-input-array-is-sorted/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0167-two-sum-ii-input-array-is-sorted.java",
+          "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.java",
+          "sha": "6625eabff0dc1478854c0c49982a4396bd05674f",
+          "lastSyncedAt": "2026-11-04T08:37:06.278Z"
         }
       ]
     },
