@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-04T08:01:32.911Z",
+  "updatedAt": "2026-11-04T08:03:15.438Z",
   "problems": [
     {
       "frontendId": "20",
@@ -64,6 +64,26 @@
           "path": "0067-add-binary/0067-add-binary.java",
           "sha": "934115148700e8e81b07fecc1eb2d8e837cbfbf7",
           "lastSyncedAt": "2026-11-04T08:00:09.571Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "problemName": "0125-valid-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+      "folderPath": "0125-valid-palindrome/",
+      "readmePath": "0125-valid-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0125-valid-palindrome.java",
+          "path": "0125-valid-palindrome/0125-valid-palindrome.java",
+          "sha": "deee06d9173e70cb6b407609815dcb6a1d0825dd",
+          "lastSyncedAt": "2026-11-04T08:03:15.438Z"
         }
       ]
     },
