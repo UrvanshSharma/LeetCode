@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-04T08:12:32.582Z",
+  "updatedAt": "2026-11-04T08:13:03.443Z",
   "problems": [
     {
       "frontendId": "7",
@@ -264,6 +264,26 @@
           "path": "0412-fizz-buzz/0412-fizz-buzz.java",
           "sha": "cce7f55c602615d2c455cae07dc7ed97c19ae4d7",
           "lastSyncedAt": "2026-11-04T08:06:48.789Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "445",
+      "title": "Add Two Numbers II",
+      "slug": "add-two-numbers-ii",
+      "problemName": "0445-add-two-numbers-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers-ii/",
+      "folderPath": "0445-add-two-numbers-ii/",
+      "readmePath": "0445-add-two-numbers-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0445-add-two-numbers-ii.java",
+          "path": "0445-add-two-numbers-ii/0445-add-two-numbers-ii.java",
+          "sha": "be0e0588ecf2d997d5216a25abb983505fabd337",
+          "lastSyncedAt": "2026-11-04T08:13:03.443Z"
         }
       ]
     },
