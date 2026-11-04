@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-04T08:00:09.571Z",
+  "updatedAt": "2026-11-04T08:04:44.893Z",
   "problems": [
+    {
+      "frontendId": "54",
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "problemName": "0054-spiral-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix/",
+      "folderPath": "0054-spiral-matrix/",
+      "readmePath": "0054-spiral-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0054-spiral-matrix.java",
+          "path": "0054-spiral-matrix/0054-spiral-matrix.java",
+          "sha": "0e04ab63f6df65c36570c14ae8a7d2bd31f62537",
+          "lastSyncedAt": "2026-11-04T08:04:44.893Z"
+        }
+      ]
+    },
     {
       "frontendId": "67",
       "title": "Add Binary",
