@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-04T08:09:32.890Z",
+  "updatedAt": "2026-11-04T08:10:02.155Z",
   "problems": [
     {
       "frontendId": "7",
@@ -24,6 +24,26 @@
           "path": "0007-reverse-integer/0007-reverse-integer.java",
           "sha": "4112ea5c57d519b65c7fc59ccf413df297bd55bf",
           "lastSyncedAt": "2026-11-04T08:05:25.882Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "problemName": "0050-powx-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+      "folderPath": "0050-powx-n/",
+      "readmePath": "0050-powx-n/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0050-powx-n.java",
+          "path": "0050-powx-n/0050-powx-n.java",
+          "sha": "ddcad8e6f5f5ec49f354064eed9f07a4d10fef23",
+          "lastSyncedAt": "2026-11-04T08:10:02.155Z"
         }
       ]
     },
