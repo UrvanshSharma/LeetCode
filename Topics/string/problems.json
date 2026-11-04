@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-04T08:26:33.540Z",
+  "updatedAt": "2026-11-04T08:33:54.177Z",
   "problems": [
     {
       "frontendId": "17",
@@ -244,6 +244,26 @@
           "path": "0383-ransom-note/0383-ransom-note.java",
           "sha": "df96634ada5c839055d1223486af43c179e668d7",
           "lastSyncedAt": "2026-11-04T08:24:13.948Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "0392-is-subsequence/",
+      "readmePath": "0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0392-is-subsequence.java",
+          "path": "0392-is-subsequence/0392-is-subsequence.java",
+          "sha": "9e824267bbc9545025ecb90757bd3d4ae3cd4a57",
+          "lastSyncedAt": "2026-11-04T08:33:54.177Z"
         }
       ]
     },
