@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-04T08:12:19.570Z",
+  "updatedAt": "2026-11-04T08:12:26.481Z",
   "problems": [
     {
       "frontendId": "19",
@@ -104,6 +104,26 @@
           "path": "0203-remove-linked-list-elements/0203-remove-linked-list-elements.java",
           "sha": "b7a837c8c8f9f0ed9d616a14843947bc7c794607",
           "lastSyncedAt": "2026-11-04T08:10:45.848Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1669",
+      "title": "Merge In Between Linked Lists",
+      "slug": "merge-in-between-linked-lists",
+      "problemName": "1669-merge-in-between-linked-lists",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-in-between-linked-lists/",
+      "folderPath": "1669-merge-in-between-linked-lists/",
+      "readmePath": "1669-merge-in-between-linked-lists/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1669-merge-in-between-linked-lists.java",
+          "path": "1669-merge-in-between-linked-lists/1669-merge-in-between-linked-lists.java",
+          "sha": "a010e0eb38a2419d49e6b76fd8f27ce0cc216217",
+          "lastSyncedAt": "2026-11-04T08:12:26.481Z"
         }
       ]
     },
