@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-04T08:08:15.969Z",
+  "updatedAt": "2026-11-04T08:11:19.386Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "0073-set-matrix-zeroes/0073-set-matrix-zeroes.java",
           "sha": "ad839c48b288b868d364af215c66a69f0468c41b",
           "lastSyncedAt": "2026-11-04T08:04:30.911Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "146",
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "problemName": "0146-lru-cache",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache/",
+      "folderPath": "0146-lru-cache/",
+      "readmePath": "0146-lru-cache/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0146-lru-cache.java",
+          "path": "0146-lru-cache/0146-lru-cache.java",
+          "sha": "03096b1458262aad64e9d59010b0a2d16864901f",
+          "lastSyncedAt": "2026-11-04T08:11:19.386Z"
         }
       ]
     },
