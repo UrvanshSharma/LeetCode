@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-04T08:07:45.681Z",
+  "updatedAt": "2026-11-04T08:07:50.986Z",
   "problems": [
     {
       "frontendId": "17",
@@ -144,6 +144,26 @@
           "path": "0077-combinations/0077-combinations.java",
           "sha": "1d92e2c743e1a9c7dc17a47fb82bec4bd0abcbab",
           "lastSyncedAt": "2026-11-04T08:07:45.681Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "problemName": "0078-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+      "folderPath": "0078-subsets/",
+      "readmePath": "0078-subsets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0078-subsets.java",
+          "path": "0078-subsets/0078-subsets.java",
+          "sha": "56202726c632b8489c6475194ebf339ff0be13bc",
+          "lastSyncedAt": "2026-11-04T08:07:50.986Z"
         }
       ]
     },
