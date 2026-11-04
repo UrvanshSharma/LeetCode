@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-04T08:21:15.547Z",
+  "updatedAt": "2026-11-04T08:21:28.837Z",
   "problems": [
     {
       "frontendId": "94",
@@ -183,7 +183,7 @@
           "filename": "0112-path-sum.java",
           "path": "0112-path-sum/0112-path-sum.java",
           "sha": "d61349ca6d8002543a9048f52464eb432e32b1af",
-          "lastSyncedAt": "2026-11-04T08:02:36.581Z"
+          "lastSyncedAt": "2026-11-04T08:21:28.837Z"
         }
       ]
     },
