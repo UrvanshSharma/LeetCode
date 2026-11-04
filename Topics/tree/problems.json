@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-04T08:20:51.670Z",
+  "updatedAt": "2026-11-04T08:21:02.083Z",
   "problems": [
     {
       "frontendId": "94",
@@ -163,7 +163,7 @@
           "filename": "0111-minimum-depth-of-binary-tree.java",
           "path": "0111-minimum-depth-of-binary-tree/0111-minimum-depth-of-binary-tree.java",
           "sha": "204f7cf399f89739f78dbc0048187a591a2b3c08",
-          "lastSyncedAt": "2026-11-04T08:02:17.678Z"
+          "lastSyncedAt": "2026-11-04T08:21:02.083Z"
         }
       ]
     },
