@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-04T08:45:41.315Z",
+  "updatedAt": "2026-11-04T08:46:12.954Z",
   "problems": [
     {
       "frontendId": "5",
@@ -304,6 +304,26 @@
           "path": "0143-reorder-list/0143-reorder-list.java",
           "sha": "243cd05b6d9b615224f1cd9e1d6b6e179d55204f",
           "lastSyncedAt": "2026-11-04T08:29:04.876Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "160",
+      "title": "Intersection of Two Linked Lists",
+      "slug": "intersection-of-two-linked-lists",
+      "problemName": "0160-intersection-of-two-linked-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+      "folderPath": "0160-intersection-of-two-linked-lists/",
+      "readmePath": "0160-intersection-of-two-linked-lists/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0160-intersection-of-two-linked-lists.cpp",
+          "path": "0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.cpp",
+          "sha": "d99ec80f80e5d15eb35f61175489840e1c00888d",
+          "lastSyncedAt": "2026-11-04T08:46:12.954Z"
         }
       ]
     },
