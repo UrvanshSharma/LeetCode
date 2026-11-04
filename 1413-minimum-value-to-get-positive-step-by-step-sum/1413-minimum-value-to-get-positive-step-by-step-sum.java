@@ -1,0 +1,23 @@
+class Solution {
+    public int minStartValue(int[] nums) {
+        int[] prefix=new int[nums.length];
+        prefix[0]=nums[0];
+        for(int i=1;i<nums.length;i++){
+            prefix[i]=prefix[i-1]+nums[i];
+        }
+        int sum=1;
+        while(true){
+            boolean found=true;
+            for(int i=0;i<nums.length;i++){
+                if(sum + prefix[i]<1){
+                    found=false;
+                    break;
+                }
+            }
+            if(found==true){
+                return sum;
+            }
+            sum++;
+        }
+    }
+}
