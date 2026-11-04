@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-11-04T08:29:56.451Z",
+  "updatedAt": "2026-11-04T08:34:57.937Z",
   "problems": [
     {
       "frontendId": "2807",
@@ -24,6 +24,26 @@
           "path": "2807-insert-greatest-common-divisors-in-linked-list/2807-insert-greatest-common-divisors-in-linked-list.java",
           "sha": "b349305cdc1cb5c2b37c92793aeef14bb1effa18",
           "lastSyncedAt": "2026-11-04T08:29:56.451Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3658",
+      "title": "GCD of Odd and Even Sums",
+      "slug": "gcd-of-odd-and-even-sums",
+      "problemName": "3658-gcd-of-odd-and-even-sums",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/",
+      "folderPath": "3658-gcd-of-odd-and-even-sums/",
+      "readmePath": "3658-gcd-of-odd-and-even-sums/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3658-gcd-of-odd-and-even-sums.java",
+          "path": "3658-gcd-of-odd-and-even-sums/3658-gcd-of-odd-and-even-sums.java",
+          "sha": "effaa5bb8e2a75f2b5bf5797f8e648ba4119db7b",
+          "lastSyncedAt": "2026-11-04T08:34:57.937Z"
         }
       ]
     }
