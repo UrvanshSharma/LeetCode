@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-04T08:30:18.527Z",
+  "updatedAt": "2026-11-04T08:31:58.244Z",
   "problems": [
     {
       "frontendId": "7",
@@ -244,6 +244,26 @@
           "path": "0342-power-of-four/0342-power-of-four.java",
           "sha": "7a3d619638641d013580de04fdfaafefa7036cf7",
           "lastSyncedAt": "2026-11-04T08:28:07.337Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "382",
+      "title": "Linked List Random Node",
+      "slug": "linked-list-random-node",
+      "problemName": "0382-linked-list-random-node",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-random-node/",
+      "folderPath": "0382-linked-list-random-node/",
+      "readmePath": "0382-linked-list-random-node/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0382-linked-list-random-node.java",
+          "path": "0382-linked-list-random-node/0382-linked-list-random-node.java",
+          "sha": "16b07a839492b49e0734f9f667f0e993408341ea",
+          "lastSyncedAt": "2026-11-04T08:31:58.244Z"
         }
       ]
     },
