@@ -5,7 +5,7 @@
     "name": "Memoization",
     "tagId": "33"
   },
-  "updatedAt": "2026-11-04T08:06:36.046Z",
+  "updatedAt": "2026-11-04T08:10:11.521Z",
   "problems": [
     {
       "frontendId": "70",
@@ -24,6 +24,26 @@
           "path": "0070-climbing-stairs/0070-climbing-stairs.java",
           "sha": "a0aac4291de0b732461ae37edb06e123faeea95b",
           "lastSyncedAt": "2026-11-04T08:06:36.046Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "0509-fibonacci-number/",
+      "readmePath": "0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0509-fibonacci-number.java",
+          "path": "0509-fibonacci-number/0509-fibonacci-number.java",
+          "sha": "d74ae681eff3189f13c7648f9b11fe83c2f8aefe",
+          "lastSyncedAt": "2026-11-04T08:10:11.521Z"
         }
       ]
     }
