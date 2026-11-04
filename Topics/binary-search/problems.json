@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-04T08:06:25.520Z",
+  "updatedAt": "2026-11-04T08:09:43.566Z",
   "problems": [
     {
       "frontendId": "4",
@@ -44,6 +44,26 @@
           "path": "0069-sqrtx/0069-sqrtx.java",
           "sha": "8a2a775fbac02607a86f5d044febcc875387869b",
           "lastSyncedAt": "2026-11-04T08:06:25.520Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "611",
+      "title": "Valid Triangle Number",
+      "slug": "valid-triangle-number",
+      "problemName": "0611-valid-triangle-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-triangle-number/",
+      "folderPath": "0611-valid-triangle-number/",
+      "readmePath": "0611-valid-triangle-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0611-valid-triangle-number.java",
+          "path": "0611-valid-triangle-number/0611-valid-triangle-number.java",
+          "sha": "3b8d7c583a123279511bd3a03388f3d850925aaf",
+          "lastSyncedAt": "2026-11-04T08:09:43.566Z"
         }
       ]
     },
