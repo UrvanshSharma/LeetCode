@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T08:38:13.859Z",
+  "updatedAt": "2026-11-04T08:38:23.995Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "0011-container-with-most-water/0011-container-with-most-water.java",
           "sha": "0af6c7b9b040458792e8ca172f7b07d346ea5e67",
           "lastSyncedAt": "2026-11-04T08:23:40.622Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "problemName": "0014-longest-common-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+      "folderPath": "0014-longest-common-prefix/",
+      "readmePath": "0014-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0014-longest-common-prefix.java",
+          "path": "0014-longest-common-prefix/0014-longest-common-prefix.java",
+          "sha": "d410ba23e20f9413aa527911cc8d16ee0bae3264",
+          "lastSyncedAt": "2026-11-04T08:38:23.995Z"
         }
       ]
     },
