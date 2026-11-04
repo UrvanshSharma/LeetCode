@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-04T08:12:08.936Z",
+  "updatedAt": "2026-11-04T08:12:54.877Z",
   "problems": [
     {
       "frontendId": "11",
@@ -44,6 +44,26 @@
           "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.java",
           "sha": "cb7f7609c7aee7284dfb7406c1e1b56227a1a55d",
           "lastSyncedAt": "2026-11-04T08:11:50.643Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "86",
+      "title": "Partition List",
+      "slug": "partition-list",
+      "problemName": "0086-partition-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
+      "folderPath": "0086-partition-list/",
+      "readmePath": "0086-partition-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0086-partition-list.java",
+          "path": "0086-partition-list/0086-partition-list.java",
+          "sha": "7acc45328b4737d6b8e7b6366cd7e6934b8142aa",
+          "lastSyncedAt": "2026-11-04T08:12:54.877Z"
         }
       ]
     },
