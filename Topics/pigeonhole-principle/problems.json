@@ -5,7 +5,7 @@
     "name": "Pigeonhole Principle",
     "tagId": "87235"
   },
-  "updatedAt": "2026-11-04T08:28:40.307Z",
+  "updatedAt": "2026-11-04T08:40:02.228Z",
   "problems": [
     {
       "frontendId": "287",
@@ -24,6 +24,26 @@
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.java",
           "sha": "130a48a979bffed52a9f55af81158006c8558d2b",
           "lastSyncedAt": "2026-11-04T08:28:40.307Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "523",
+      "title": "Continuous Subarray Sum",
+      "slug": "continuous-subarray-sum",
+      "problemName": "0523-continuous-subarray-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/continuous-subarray-sum/",
+      "folderPath": "0523-continuous-subarray-sum/",
+      "readmePath": "0523-continuous-subarray-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0523-continuous-subarray-sum.java",
+          "path": "0523-continuous-subarray-sum/0523-continuous-subarray-sum.java",
+          "sha": "9334ebe0fc350a9185537d9afe6fa1ba3e2420ec",
+          "lastSyncedAt": "2026-11-04T08:40:02.228Z"
         }
       ]
     }
