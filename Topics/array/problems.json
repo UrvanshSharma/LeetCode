@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T08:07:27.184Z",
+  "updatedAt": "2026-11-04T08:07:50.986Z",
   "problems": [
     {
       "frontendId": "1",
@@ -204,6 +204,26 @@
           "path": "0073-set-matrix-zeroes/0073-set-matrix-zeroes.java",
           "sha": "ad839c48b288b868d364af215c66a69f0468c41b",
           "lastSyncedAt": "2026-11-04T08:04:30.911Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "problemName": "0078-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+      "folderPath": "0078-subsets/",
+      "readmePath": "0078-subsets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0078-subsets.java",
+          "path": "0078-subsets/0078-subsets.java",
+          "sha": "56202726c632b8489c6475194ebf339ff0be13bc",
+          "lastSyncedAt": "2026-11-04T08:07:50.986Z"
         }
       ]
     },
