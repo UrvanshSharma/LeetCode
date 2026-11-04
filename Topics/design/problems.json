@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-04T08:28:55.066Z",
+  "updatedAt": "2026-11-04T08:38:13.859Z",
   "problems": [
     {
       "frontendId": "146",
@@ -84,6 +84,26 @@
           "path": "0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.java",
           "sha": "a83f588da5c3cf331243d16f84266700001a557e",
           "lastSyncedAt": "2026-11-04T08:24:33.103Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "303",
+      "title": "Range Sum Query - Immutable",
+      "slug": "range-sum-query-immutable",
+      "problemName": "0303-range-sum-query-immutable",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/range-sum-query-immutable/",
+      "folderPath": "0303-range-sum-query-immutable/",
+      "readmePath": "0303-range-sum-query-immutable/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0303-range-sum-query-immutable.java",
+          "path": "0303-range-sum-query-immutable/0303-range-sum-query-immutable.java",
+          "sha": "5db59be815cd9572ffdb67581a2a0dab5f5a247b",
+          "lastSyncedAt": "2026-11-04T08:38:13.859Z"
         }
       ]
     },
