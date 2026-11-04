@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-04T08:29:04.876Z",
+  "updatedAt": "2026-11-04T08:29:19.803Z",
   "problems": [
     {
       "frontendId": "19",
@@ -23,7 +23,7 @@
           "filename": "0019-remove-nth-node-from-end-of-list.java",
           "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.java",
           "sha": "cb7f7609c7aee7284dfb7406c1e1b56227a1a55d",
-          "lastSyncedAt": "2026-11-04T08:11:50.643Z"
+          "lastSyncedAt": "2026-11-04T08:29:19.803Z"
         }
       ]
     },
