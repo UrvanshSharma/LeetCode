@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-04T08:11:50.643Z",
+  "updatedAt": "2026-11-04T08:12:08.936Z",
   "problems": [
     {
       "frontendId": "11",
@@ -104,6 +104,26 @@
           "path": "0189-rotate-array/0189-rotate-array.java",
           "sha": "1209ad5c1ba775e49acaa626a2140fc622918c26",
           "lastSyncedAt": "2026-11-04T08:09:22.925Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "202",
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "problemName": "0202-happy-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
+      "folderPath": "0202-happy-number/",
+      "readmePath": "0202-happy-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0202-happy-number.java",
+          "path": "0202-happy-number/0202-happy-number.java",
+          "sha": "bbc76053b6a04d56e17d9b3f1af2f5ee3453de78",
+          "lastSyncedAt": "2026-11-04T08:12:08.936Z"
         }
       ]
     },
