@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-04T08:06:48.789Z",
+  "updatedAt": "2026-11-04T08:12:19.570Z",
   "problems": [
     {
       "frontendId": "54",
@@ -104,6 +104,26 @@
           "path": "0735-asteroid-collision/0735-asteroid-collision.java",
           "sha": "bfcc4b9d6e76dcb839068294daf4815f60f06e2a",
           "lastSyncedAt": "2026-11-04T07:58:48.409Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2181",
+      "title": "Merge Nodes in Between Zeros",
+      "slug": "merge-nodes-in-between-zeros",
+      "problemName": "2181-merge-nodes-in-between-zeros",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-nodes-in-between-zeros/",
+      "folderPath": "2181-merge-nodes-in-between-zeros/",
+      "readmePath": "2181-merge-nodes-in-between-zeros/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2181-merge-nodes-in-between-zeros.java",
+          "path": "2181-merge-nodes-in-between-zeros/2181-merge-nodes-in-between-zeros.java",
+          "sha": "d9808c2d5606fd710765a08035ac52724ae832aa",
+          "lastSyncedAt": "2026-11-04T08:12:19.570Z"
         }
       ]
     }
