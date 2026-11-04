@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum",
+    "tagId": "61068"
+  },
+  "updatedAt": "2026-11-04T08:37:42.336Z",
+  "problems": [
+    {
+      "frontendId": "1732",
+      "title": "Find the Highest Altitude",
+      "slug": "find-the-highest-altitude",
+      "problemName": "1732-find-the-highest-altitude",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-highest-altitude/",
+      "folderPath": "1732-find-the-highest-altitude/",
+      "readmePath": "1732-find-the-highest-altitude/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1732-find-the-highest-altitude.java",
+          "path": "1732-find-the-highest-altitude/1732-find-the-highest-altitude.java",
+          "sha": "5beb77743fc177c6d911d1df61f3e1a96b282efb",
+          "lastSyncedAt": "2026-11-04T08:37:42.336Z"
+        }
+      ]
+    }
+  ]
+}
