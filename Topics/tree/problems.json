@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-04T08:19:31.778Z",
+  "updatedAt": "2026-11-04T08:19:47.743Z",
   "problems": [
     {
       "frontendId": "94",
@@ -143,7 +143,7 @@
           "filename": "0110-balanced-binary-tree.java",
           "path": "0110-balanced-binary-tree/0110-balanced-binary-tree.java",
           "sha": "16f9f866aac6694722e1e2c35c98fdf9d63e7a56",
-          "lastSyncedAt": "2026-11-04T08:01:10.978Z"
+          "lastSyncedAt": "2026-11-04T08:19:47.743Z"
         }
       ]
     },
