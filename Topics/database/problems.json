@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-04T08:41:01.282Z",
+  "updatedAt": "2026-11-04T08:41:07.214Z",
   "problems": [
+    {
+      "frontendId": "176",
+      "title": "Second Highest Salary",
+      "slug": "second-highest-salary",
+      "problemName": "0176-second-highest-salary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/second-highest-salary/",
+      "folderPath": "0176-second-highest-salary/",
+      "readmePath": "0176-second-highest-salary/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0176-second-highest-salary.sql",
+          "path": "0176-second-highest-salary/0176-second-highest-salary.sql",
+          "sha": "7d4e74928829acec8b8fb47ef35026f0433b5923",
+          "lastSyncedAt": "2026-11-04T08:41:07.214Z"
+        }
+      ]
+    },
     {
       "frontendId": "1683",
       "title": "Invalid Tweets",
