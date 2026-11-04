@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-04T08:39:25.512Z",
+  "updatedAt": "2026-11-04T08:39:51.111Z",
   "problems": [
     {
       "frontendId": "5",
@@ -244,6 +244,26 @@
           "path": "0205-isomorphic-strings/0205-isomorphic-strings.java",
           "sha": "93e193d4e6d3e12df2de853cb7ff3633c47afbcb",
           "lastSyncedAt": "2026-11-04T08:23:58.138Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0242-valid-anagram.java",
+          "path": "0242-valid-anagram/0242-valid-anagram.java",
+          "sha": "a290f034eb68dcb0c171ea46483462c674d7aee6",
+          "lastSyncedAt": "2026-11-04T08:39:51.111Z"
         }
       ]
     },
