@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-04T08:05:37.779Z",
+  "updatedAt": "2026-11-04T08:06:48.789Z",
   "problems": [
     {
       "frontendId": "20",
@@ -204,6 +204,26 @@
           "path": "0394-decode-string/0394-decode-string.java",
           "sha": "193dee0edcaf62a60319be310df3859c405b13d6",
           "lastSyncedAt": "2026-11-04T07:58:20.730Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "0412-fizz-buzz/",
+      "readmePath": "0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0412-fizz-buzz.java",
+          "path": "0412-fizz-buzz/0412-fizz-buzz.java",
+          "sha": "cce7f55c602615d2c455cae07dc7ed97c19ae4d7",
+          "lastSyncedAt": "2026-11-04T08:06:48.789Z"
         }
       ]
     }
