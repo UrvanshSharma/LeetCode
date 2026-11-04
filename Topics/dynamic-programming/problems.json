@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-04T08:33:54.177Z",
+  "updatedAt": "2026-11-04T08:35:36.141Z",
   "problems": [
+    {
+      "frontendId": "5",
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "problemName": "0005-longest-palindromic-substring",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "folderPath": "0005-longest-palindromic-substring/",
+      "readmePath": "0005-longest-palindromic-substring/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0005-longest-palindromic-substring.java",
+          "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.java",
+          "sha": "60c5378216aaf1d4c3d839b77d20a93b821b500f",
+          "lastSyncedAt": "2026-11-04T08:35:36.141Z"
+        }
+      ]
+    },
     {
       "frontendId": "22",
       "title": "Generate Parentheses",
