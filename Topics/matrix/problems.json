@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-04T08:08:15.969Z",
+  "updatedAt": "2026-11-04T08:08:39.523Z",
   "problems": [
     {
       "frontendId": "36",
@@ -84,6 +84,26 @@
           "path": "0073-set-matrix-zeroes/0073-set-matrix-zeroes.java",
           "sha": "ad839c48b288b868d364af215c66a69f0468c41b",
           "lastSyncedAt": "2026-11-04T08:04:30.911Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "79",
+      "title": "Word Search",
+      "slug": "word-search",
+      "problemName": "0079-word-search",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search/",
+      "folderPath": "0079-word-search/",
+      "readmePath": "0079-word-search/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0079-word-search.java",
+          "path": "0079-word-search/0079-word-search.java",
+          "sha": "ea05a81131621e78bad7ba9c17669c7f51b407a8",
+          "lastSyncedAt": "2026-11-04T08:08:39.523Z"
         }
       ]
     }
