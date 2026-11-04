@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-04T08:37:06.278Z",
+  "updatedAt": "2026-11-04T08:40:41.769Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
           "sha": "1524b1899d6e68150bd1328aed05fdce070d3288",
           "lastSyncedAt": "2026-11-04T08:20:22.785Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "problemName": "0033-search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "folderPath": "0033-search-in-rotated-sorted-array/",
+      "readmePath": "0033-search-in-rotated-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0033-search-in-rotated-sorted-array.java",
+          "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.java",
+          "sha": "9109bea18c6c66be23ec77767382caa63a9e6892",
+          "lastSyncedAt": "2026-11-04T08:40:41.769Z"
         }
       ]
     },
