@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-04T08:07:50.986Z",
+  "updatedAt": "2026-11-04T08:10:21.880Z",
   "problems": [
     {
       "frontendId": "67",
@@ -64,6 +64,26 @@
           "path": "0191-number-of-1-bits/0191-number-of-1-bits.java",
           "sha": "d996f2a535feb3e7387a86f4d5c068cb7bb91377",
           "lastSyncedAt": "2026-11-04T07:59:58.728Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "342",
+      "title": "Power of Four",
+      "slug": "power-of-four",
+      "problemName": "0342-power-of-four",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
+      "folderPath": "0342-power-of-four/",
+      "readmePath": "0342-power-of-four/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0342-power-of-four.java",
+          "path": "0342-power-of-four/0342-power-of-four.java",
+          "sha": "7a3d619638641d013580de04fdfaafefa7036cf7",
+          "lastSyncedAt": "2026-11-04T08:10:21.880Z"
         }
       ]
     }
