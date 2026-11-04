@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-04T08:33:33.835Z",
+  "updatedAt": "2026-11-04T08:34:27.555Z",
   "problems": [
     {
       "frontendId": "47",
@@ -84,6 +84,26 @@
           "path": "0611-valid-triangle-number/0611-valid-triangle-number.java",
           "sha": "3b8d7c583a123279511bd3a03388f3d850925aaf",
           "lastSyncedAt": "2026-11-04T08:27:34.734Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "912",
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "problemName": "0912-sort-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+      "folderPath": "0912-sort-an-array/",
+      "readmePath": "0912-sort-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0912-sort-an-array.java",
+          "path": "0912-sort-an-array/0912-sort-an-array.java",
+          "sha": "feb09817df6277f4699f1cbd0922696c916c1be3",
+          "lastSyncedAt": "2026-11-04T08:34:27.555Z"
         }
       ]
     },
