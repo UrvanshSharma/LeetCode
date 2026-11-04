@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-04T08:04:44.893Z",
+  "updatedAt": "2026-11-04T08:06:14.243Z",
   "problems": [
     {
       "frontendId": "54",
@@ -44,6 +44,26 @@
           "path": "0067-add-binary/0067-add-binary.java",
           "sha": "934115148700e8e81b07fecc1eb2d8e837cbfbf7",
           "lastSyncedAt": "2026-11-04T08:00:09.571Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "682",
+      "title": "Baseball Game",
+      "slug": "baseball-game",
+      "problemName": "0682-baseball-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/baseball-game/",
+      "folderPath": "0682-baseball-game/",
+      "readmePath": "0682-baseball-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0682-baseball-game.java",
+          "path": "0682-baseball-game/0682-baseball-game.java",
+          "sha": "46e56ddc15d07e1b6d1becd9cef412079584f3e2",
+          "lastSyncedAt": "2026-11-04T08:06:14.243Z"
         }
       ]
     },
