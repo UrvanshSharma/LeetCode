@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-04T08:23:13.239Z",
+  "updatedAt": "2026-11-04T08:31:40.655Z",
   "problems": [
     {
       "frontendId": "94",
@@ -124,6 +124,26 @@
           "path": "0107-binary-tree-level-order-traversal-ii/0107-binary-tree-level-order-traversal-ii.java",
           "sha": "8640e042455817af5d0a6c71f3ef77decd143338",
           "lastSyncedAt": "2026-11-04T08:17:05.553Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "109",
+      "title": "Convert Sorted List to Binary Search Tree",
+      "slug": "convert-sorted-list-to-binary-search-tree",
+      "problemName": "0109-convert-sorted-list-to-binary-search-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/",
+      "folderPath": "0109-convert-sorted-list-to-binary-search-tree/",
+      "readmePath": "0109-convert-sorted-list-to-binary-search-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0109-convert-sorted-list-to-binary-search-tree.java",
+          "path": "0109-convert-sorted-list-to-binary-search-tree/0109-convert-sorted-list-to-binary-search-tree.java",
+          "sha": "b321093aadeb5e743b7051a0f829886694b94577",
+          "lastSyncedAt": "2026-11-04T08:31:40.655Z"
         }
       ]
     },
