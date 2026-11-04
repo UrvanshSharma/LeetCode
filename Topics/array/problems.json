@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T08:01:23.667Z",
+  "updatedAt": "2026-11-04T08:01:43.771Z",
   "problems": [
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "0004-median-of-two-sorted-arrays/",
+      "readmePath": "0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0004-median-of-two-sorted-arrays.java",
+          "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
+          "sha": "1524b1899d6e68150bd1328aed05fdce070d3288",
+          "lastSyncedAt": "2026-11-04T08:01:43.771Z"
+        }
+      ]
+    },
     {
       "frontendId": "36",
       "title": "Valid Sudoku",
