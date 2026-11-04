@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-04T08:30:32.085Z",
+  "updatedAt": "2026-11-04T08:30:44.490Z",
   "problems": [
     {
       "frontendId": "19",
@@ -224,6 +224,26 @@
           "path": "1669-merge-in-between-linked-lists/1669-merge-in-between-linked-lists.java",
           "sha": "a010e0eb38a2419d49e6b76fd8f27ce0cc216217",
           "lastSyncedAt": "2026-11-04T08:29:52.796Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1721",
+      "title": "Swapping Nodes in a Linked List",
+      "slug": "swapping-nodes-in-a-linked-list",
+      "problemName": "1721-swapping-nodes-in-a-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/swapping-nodes-in-a-linked-list/",
+      "folderPath": "1721-swapping-nodes-in-a-linked-list/",
+      "readmePath": "1721-swapping-nodes-in-a-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1721-swapping-nodes-in-a-linked-list.java",
+          "path": "1721-swapping-nodes-in-a-linked-list/1721-swapping-nodes-in-a-linked-list.java",
+          "sha": "7752adcb58d78593c1df01535efc4c1cc3dedbd3",
+          "lastSyncedAt": "2026-11-04T08:30:44.490Z"
         }
       ]
     },
