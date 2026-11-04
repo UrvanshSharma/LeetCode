@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-04T08:27:55.632Z",
+  "updatedAt": "2026-11-04T08:33:54.177Z",
   "problems": [
     {
       "frontendId": "22",
@@ -104,6 +104,26 @@
           "path": "0122-best-time-to-buy-and-sell-stock-ii/0122-best-time-to-buy-and-sell-stock-ii.java",
           "sha": "fd918626a794ff0f8eb538bcdef102449c907460",
           "lastSyncedAt": "2026-11-04T08:27:10.080Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "0392-is-subsequence/",
+      "readmePath": "0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0392-is-subsequence.java",
+          "path": "0392-is-subsequence/0392-is-subsequence.java",
+          "sha": "9e824267bbc9545025ecb90757bd3d4ae3cd4a57",
+          "lastSyncedAt": "2026-11-04T08:33:54.177Z"
         }
       ]
     },
