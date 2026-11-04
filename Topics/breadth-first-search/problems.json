@@ -5,7 +5,7 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-04T08:21:28.837Z",
+  "updatedAt": "2026-11-04T08:22:19.833Z",
   "problems": [
     {
       "frontendId": "100",
@@ -243,7 +243,7 @@
           "filename": "0637-average-of-levels-in-binary-tree.java",
           "path": "0637-average-of-levels-in-binary-tree/0637-average-of-levels-in-binary-tree.java",
           "sha": "246cacd4d6300a4594af5970630728d3b2559edd",
-          "lastSyncedAt": "2026-11-04T08:03:36.226Z"
+          "lastSyncedAt": "2026-11-04T08:22:19.833Z"
         }
       ]
     },
