@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-04T08:38:37.414Z",
+  "updatedAt": "2026-11-04T08:39:51.111Z",
   "problems": [
     {
       "frontendId": "15",
@@ -104,6 +104,26 @@
           "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
           "sha": "04f383c35ea1da822fce8f55f3b58e6973522bb5",
           "lastSyncedAt": "2026-11-04T08:16:14.041Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0242-valid-anagram.java",
+          "path": "0242-valid-anagram/0242-valid-anagram.java",
+          "sha": "a290f034eb68dcb0c171ea46483462c674d7aee6",
+          "lastSyncedAt": "2026-11-04T08:39:51.111Z"
         }
       ]
     },
