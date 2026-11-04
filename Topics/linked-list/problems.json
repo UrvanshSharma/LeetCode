@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-04T08:12:49.252Z",
+  "updatedAt": "2026-11-04T08:12:54.877Z",
   "problems": [
     {
       "frontendId": "19",
@@ -44,6 +44,26 @@
           "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.java",
           "sha": "3252fb10f2e9d242fbbca8e4194d286b7300d385",
           "lastSyncedAt": "2026-11-04T08:05:08.020Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "86",
+      "title": "Partition List",
+      "slug": "partition-list",
+      "problemName": "0086-partition-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
+      "folderPath": "0086-partition-list/",
+      "readmePath": "0086-partition-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0086-partition-list.java",
+          "path": "0086-partition-list/0086-partition-list.java",
+          "sha": "7acc45328b4737d6b8e7b6366cd7e6934b8142aa",
+          "lastSyncedAt": "2026-11-04T08:12:54.877Z"
         }
       ]
     },
