@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-04T08:30:26.455Z",
+  "updatedAt": "2026-11-04T08:45:27.514Z",
   "problems": [
     {
       "frontendId": "20",
@@ -184,6 +184,26 @@
           "path": "0232-implement-queue-using-stacks/0232-implement-queue-using-stacks.java",
           "sha": "a83f588da5c3cf331243d16f84266700001a557e",
           "lastSyncedAt": "2026-11-04T08:24:33.103Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "0234-palindrome-linked-list/",
+      "readmePath": "0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0234-palindrome-linked-list.cpp",
+          "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.cpp",
+          "sha": "9befe0e93da4bbee869b4546b22205e4de8437ff",
+          "lastSyncedAt": "2026-11-04T08:45:27.514Z"
         }
       ]
     },
