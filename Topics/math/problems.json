@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-04T08:06:36.046Z",
+  "updatedAt": "2026-11-04T08:06:48.789Z",
   "problems": [
     {
       "frontendId": "7",
@@ -124,6 +124,26 @@
           "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.java",
           "sha": "8253d818d829e44cd1d77536ba5fd6d47f9d71be",
           "lastSyncedAt": "2026-11-04T07:59:46.214Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "0412-fizz-buzz/",
+      "readmePath": "0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0412-fizz-buzz.java",
+          "path": "0412-fizz-buzz/0412-fizz-buzz.java",
+          "sha": "cce7f55c602615d2c455cae07dc7ed97c19ae4d7",
+          "lastSyncedAt": "2026-11-04T08:06:48.789Z"
         }
       ]
     }
