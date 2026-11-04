@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-04T08:08:39.523Z",
+  "updatedAt": "2026-11-04T08:15:46.948Z",
   "problems": [
     {
       "frontendId": "17",
@@ -183,7 +183,7 @@
           "filename": "0052-n-queens-ii.java",
           "path": "0052-n-queens-ii/0052-n-queens-ii.java",
           "sha": "0f12082e95658afc64a76182a9c17604e9247ad4",
-          "lastSyncedAt": "2026-11-04T07:58:15.030Z"
+          "lastSyncedAt": "2026-11-04T08:15:46.948Z"
         }
       ]
     },
