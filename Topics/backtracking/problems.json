@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-04T08:07:34.974Z",
+  "updatedAt": "2026-11-04T08:07:45.681Z",
   "problems": [
     {
       "frontendId": "17",
@@ -124,6 +124,26 @@
           "path": "0052-n-queens-ii/0052-n-queens-ii.java",
           "sha": "0f12082e95658afc64a76182a9c17604e9247ad4",
           "lastSyncedAt": "2026-11-04T07:58:15.030Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "77",
+      "title": "Combinations",
+      "slug": "combinations",
+      "problemName": "0077-combinations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combinations/",
+      "folderPath": "0077-combinations/",
+      "readmePath": "0077-combinations/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0077-combinations.java",
+          "path": "0077-combinations/0077-combinations.java",
+          "sha": "1d92e2c743e1a9c7dc17a47fb82bec4bd0abcbab",
+          "lastSyncedAt": "2026-11-04T08:07:45.681Z"
         }
       ]
     },
