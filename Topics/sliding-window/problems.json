@@ -5,8 +5,28 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-04T08:34:03.739Z",
+  "updatedAt": "2026-11-04T08:35:07.954Z",
   "problems": [
+    {
+      "frontendId": "1358",
+      "title": "Number of Substrings Containing All Three Characters",
+      "slug": "number-of-substrings-containing-all-three-characters",
+      "problemName": "1358-number-of-substrings-containing-all-three-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+      "folderPath": "1358-number-of-substrings-containing-all-three-characters/",
+      "readmePath": "1358-number-of-substrings-containing-all-three-characters/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1358-number-of-substrings-containing-all-three-characters.java",
+          "path": "1358-number-of-substrings-containing-all-three-characters/1358-number-of-substrings-containing-all-three-characters.java",
+          "sha": "5f710a5787a531d087f1dfc65a7668c16c64104e",
+          "lastSyncedAt": "2026-11-04T08:35:07.954Z"
+        }
+      ]
+    },
     {
       "frontendId": "1652",
       "title": "Defuse the Bomb",
