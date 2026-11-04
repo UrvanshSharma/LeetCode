@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-04T08:29:19.803Z",
+  "updatedAt": "2026-11-04T08:29:27.885Z",
   "problems": [
     {
       "frontendId": "19",
@@ -283,7 +283,7 @@
           "filename": "3217-delete-nodes-from-linked-list-present-in-array.java",
           "path": "3217-delete-nodes-from-linked-list-present-in-array/3217-delete-nodes-from-linked-list-present-in-array.java",
           "sha": "038811b637d66a9ae4ae2fb194e670e68cbe4d78",
-          "lastSyncedAt": "2026-11-04T08:11:59.472Z"
+          "lastSyncedAt": "2026-11-04T08:29:27.885Z"
         }
       ]
     }
