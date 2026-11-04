@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-04T08:25:40.524Z",
+  "updatedAt": "2026-11-04T08:25:52.551Z",
   "problems": [
     {
       "frontendId": "17",
@@ -203,7 +203,7 @@
           "filename": "0077-combinations.java",
           "path": "0077-combinations/0077-combinations.java",
           "sha": "1d92e2c743e1a9c7dc17a47fb82bec4bd0abcbab",
-          "lastSyncedAt": "2026-11-04T08:07:45.681Z"
+          "lastSyncedAt": "2026-11-04T08:25:52.551Z"
         }
       ]
     },
