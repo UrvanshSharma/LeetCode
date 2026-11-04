@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T08:08:54.391Z",
+  "updatedAt": "2026-11-04T08:09:03.830Z",
   "problems": [
     {
       "frontendId": "1",
@@ -244,6 +244,26 @@
           "path": "0054-spiral-matrix/0054-spiral-matrix.java",
           "sha": "0e04ab63f6df65c36570c14ae8a7d2bd31f62537",
           "lastSyncedAt": "2026-11-04T08:04:44.893Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "55",
+      "title": "Jump Game",
+      "slug": "jump-game",
+      "problemName": "0055-jump-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game/",
+      "folderPath": "0055-jump-game/",
+      "readmePath": "0055-jump-game/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0055-jump-game.java",
+          "path": "0055-jump-game/0055-jump-game.java",
+          "sha": "ab3b40bf149e14d280611ce384fe599d81dce518",
+          "lastSyncedAt": "2026-11-04T08:09:03.830Z"
         }
       ]
     },
