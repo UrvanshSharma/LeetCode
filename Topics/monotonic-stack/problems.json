@@ -5,7 +5,7 @@
     "name": "Monotonic Stack",
     "tagId": "61054"
   },
-  "updatedAt": "2026-11-04T08:17:40.132Z",
+  "updatedAt": "2026-11-04T08:21:39.729Z",
   "problems": [
     {
       "frontendId": "496",
@@ -23,7 +23,7 @@
           "filename": "0496-next-greater-element-i.java",
           "path": "0496-next-greater-element-i/0496-next-greater-element-i.java",
           "sha": "7e6780b8ac6e21b45fd53c861b019e125ee0f9c0",
-          "lastSyncedAt": "2026-11-04T08:02:48.826Z"
+          "lastSyncedAt": "2026-11-04T08:21:39.729Z"
         }
       ]
     },
