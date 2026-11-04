@@ -5,8 +5,28 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-04T07:58:28.744Z",
+  "updatedAt": "2026-11-04T08:03:06.590Z",
   "problems": [
+    {
+      "frontendId": "155",
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "problemName": "0155-min-stack",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
+      "folderPath": "0155-min-stack/",
+      "readmePath": "0155-min-stack/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0155-min-stack.java",
+          "path": "0155-min-stack/0155-min-stack.java",
+          "sha": "817f9cfc4854c4662c48b28391b96b0a7597cc1f",
+          "lastSyncedAt": "2026-11-04T08:03:06.590Z"
+        }
+      ]
+    },
     {
       "frontendId": "225",
       "title": "Implement Stack using Queues",
