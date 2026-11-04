@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T08:33:45.394Z",
+  "updatedAt": "2026-11-04T08:34:03.739Z",
   "problems": [
     {
       "frontendId": "1",
@@ -604,6 +604,26 @@
           "path": "1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.java",
           "sha": "d3e3904151abcba0cad0715b2be2d02ab2fe0a64",
           "lastSyncedAt": "2026-11-04T08:22:08.685Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1652",
+      "title": "Defuse the Bomb",
+      "slug": "defuse-the-bomb",
+      "problemName": "1652-defuse-the-bomb",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/defuse-the-bomb/",
+      "folderPath": "1652-defuse-the-bomb/",
+      "readmePath": "1652-defuse-the-bomb/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1652-defuse-the-bomb.java",
+          "path": "1652-defuse-the-bomb/1652-defuse-the-bomb.java",
+          "sha": "446ae650493033869f60eba0aff7939f1b97838d",
+          "lastSyncedAt": "2026-11-04T08:34:03.739Z"
         }
       ]
     },
