@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-04T08:36:56.965Z",
+  "updatedAt": "2026-11-04T08:37:06.278Z",
   "problems": [
     {
       "frontendId": "5",
@@ -184,6 +184,26 @@
           "path": "0143-reorder-list/0143-reorder-list.java",
           "sha": "243cd05b6d9b615224f1cd9e1d6b6e179d55204f",
           "lastSyncedAt": "2026-11-04T08:29:04.876Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "problemName": "0167-two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      "folderPath": "0167-two-sum-ii-input-array-is-sorted/",
+      "readmePath": "0167-two-sum-ii-input-array-is-sorted/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0167-two-sum-ii-input-array-is-sorted.java",
+          "path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.java",
+          "sha": "6625eabff0dc1478854c0c49982a4396bd05674f",
+          "lastSyncedAt": "2026-11-04T08:37:06.278Z"
         }
       ]
     },
