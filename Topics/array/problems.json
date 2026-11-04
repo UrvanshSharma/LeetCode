@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T08:29:27.885Z",
+  "updatedAt": "2026-11-04T08:33:12.814Z",
   "problems": [
     {
       "frontendId": "1",
@@ -624,6 +624,26 @@
           "path": "3217-delete-nodes-from-linked-list-present-in-array/3217-delete-nodes-from-linked-list-present-in-array.java",
           "sha": "038811b637d66a9ae4ae2fb194e670e68cbe4d78",
           "lastSyncedAt": "2026-11-04T08:29:27.885Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "problemName": "3731-find-missing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+      "folderPath": "3731-find-missing-elements/",
+      "readmePath": "3731-find-missing-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3731-find-missing-elements.java",
+          "path": "3731-find-missing-elements/3731-find-missing-elements.java",
+          "sha": "1cbadf0c3348148210dd4c11852e19efa412f939",
+          "lastSyncedAt": "2026-11-04T08:33:12.814Z"
         }
       ]
     }
