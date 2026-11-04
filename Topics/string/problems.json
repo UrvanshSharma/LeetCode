@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-04T08:18:44.581Z",
+  "updatedAt": "2026-11-04T08:19:31.778Z",
   "problems": [
     {
       "frontendId": "17",
@@ -183,7 +183,7 @@
           "filename": "0257-binary-tree-paths.java",
           "path": "0257-binary-tree-paths/0257-binary-tree-paths.java",
           "sha": "66219376123b4d80ca2d1ac585492e3703f003ca",
-          "lastSyncedAt": "2026-11-04T08:01:01.452Z"
+          "lastSyncedAt": "2026-11-04T08:19:31.778Z"
         }
       ]
     },
