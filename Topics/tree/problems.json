@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-04T08:22:59.957Z",
+  "updatedAt": "2026-11-04T08:23:13.239Z",
   "problems": [
     {
       "frontendId": "94",
@@ -103,7 +103,7 @@
           "filename": "0104-maximum-depth-of-binary-tree.java",
           "path": "0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.java",
           "sha": "6bc62cefcbf26efd16da7c5b997230a5540c9cc2",
-          "lastSyncedAt": "2026-11-04T08:04:19.411Z"
+          "lastSyncedAt": "2026-11-04T08:23:13.239Z"
         }
       ]
     },
