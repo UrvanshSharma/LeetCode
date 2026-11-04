@@ -5,8 +5,28 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-04T08:11:39.257Z",
+  "updatedAt": "2026-11-04T08:11:50.643Z",
   "problems": [
+    {
+      "frontendId": "19",
+      "title": "Remove Nth Node From End of List",
+      "slug": "remove-nth-node-from-end-of-list",
+      "problemName": "0019-remove-nth-node-from-end-of-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "folderPath": "0019-remove-nth-node-from-end-of-list/",
+      "readmePath": "0019-remove-nth-node-from-end-of-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0019-remove-nth-node-from-end-of-list.java",
+          "path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.java",
+          "sha": "cb7f7609c7aee7284dfb7406c1e1b56227a1a55d",
+          "lastSyncedAt": "2026-11-04T08:11:50.643Z"
+        }
+      ]
+    },
     {
       "frontendId": "25",
       "title": "Reverse Nodes in k-Group",
