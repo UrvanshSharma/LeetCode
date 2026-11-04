@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sliding-window",
+    "name": "Sliding Window",
+    "tagId": "55821"
+  },
+  "updatedAt": "2026-11-04T08:34:03.739Z",
+  "problems": [
+    {
+      "frontendId": "1652",
+      "title": "Defuse the Bomb",
+      "slug": "defuse-the-bomb",
+      "problemName": "1652-defuse-the-bomb",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/defuse-the-bomb/",
+      "folderPath": "1652-defuse-the-bomb/",
+      "readmePath": "1652-defuse-the-bomb/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1652-defuse-the-bomb.java",
+          "path": "1652-defuse-the-bomb/1652-defuse-the-bomb.java",
+          "sha": "446ae650493033869f60eba0aff7939f1b97838d",
+          "lastSyncedAt": "2026-11-04T08:34:03.739Z"
+        }
+      ]
+    }
+  ]
+}
