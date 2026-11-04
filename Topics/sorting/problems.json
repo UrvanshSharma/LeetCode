@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-04T08:08:00.373Z",
+  "updatedAt": "2026-11-04T08:09:43.566Z",
   "problems": [
     {
       "frontendId": "47",
@@ -44,6 +44,26 @@
           "path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.java",
           "sha": "04f383c35ea1da822fce8f55f3b58e6973522bb5",
           "lastSyncedAt": "2026-11-04T07:58:36.043Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "611",
+      "title": "Valid Triangle Number",
+      "slug": "valid-triangle-number",
+      "problemName": "0611-valid-triangle-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-triangle-number/",
+      "folderPath": "0611-valid-triangle-number/",
+      "readmePath": "0611-valid-triangle-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0611-valid-triangle-number.java",
+          "path": "0611-valid-triangle-number/0611-valid-triangle-number.java",
+          "sha": "3b8d7c583a123279511bd3a03388f3d850925aaf",
+          "lastSyncedAt": "2026-11-04T08:09:43.566Z"
         }
       ]
     },
