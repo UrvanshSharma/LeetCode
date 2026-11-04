@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-04T08:10:45.848Z",
+  "updatedAt": "2026-11-04T08:11:19.386Z",
   "problems": [
     {
       "frontendId": "25",
@@ -24,6 +24,26 @@
           "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.java",
           "sha": "3252fb10f2e9d242fbbca8e4194d286b7300d385",
           "lastSyncedAt": "2026-11-04T08:05:08.020Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "146",
+      "title": "LRU Cache",
+      "slug": "lru-cache",
+      "problemName": "0146-lru-cache",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lru-cache/",
+      "folderPath": "0146-lru-cache/",
+      "readmePath": "0146-lru-cache/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0146-lru-cache.java",
+          "path": "0146-lru-cache/0146-lru-cache.java",
+          "sha": "03096b1458262aad64e9d59010b0a2d16864901f",
+          "lastSyncedAt": "2026-11-04T08:11:19.386Z"
         }
       ]
     },
