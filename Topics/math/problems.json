@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-04T08:06:48.789Z",
+  "updatedAt": "2026-11-04T08:09:22.925Z",
   "problems": [
     {
       "frontendId": "7",
@@ -124,6 +124,26 @@
           "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.java",
           "sha": "8253d818d829e44cd1d77536ba5fd6d47f9d71be",
           "lastSyncedAt": "2026-11-04T07:59:46.214Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "0189-rotate-array/",
+      "readmePath": "0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0189-rotate-array.java",
+          "path": "0189-rotate-array/0189-rotate-array.java",
+          "sha": "1209ad5c1ba775e49acaa626a2140fc622918c26",
+          "lastSyncedAt": "2026-11-04T08:09:22.925Z"
         }
       ]
     },
