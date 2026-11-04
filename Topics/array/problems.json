@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T08:35:57.216Z",
+  "updatedAt": "2026-11-04T08:36:10.999Z",
   "problems": [
     {
       "frontendId": "1",
@@ -224,6 +224,26 @@
           "path": "0047-permutations-ii/0047-permutations-ii.java",
           "sha": "94fc3f7164f5338552c8e33a7342af0e9ee72f02",
           "lastSyncedAt": "2026-11-04T08:26:06.227Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "0048-rotate-image/",
+      "readmePath": "0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0048-rotate-image.java",
+          "path": "0048-rotate-image/0048-rotate-image.java",
+          "sha": "cbd66e31eadb504f296c051cf2a1225f709b8b07",
+          "lastSyncedAt": "2026-11-04T08:36:10.999Z"
         }
       ]
     },
