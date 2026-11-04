@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T08:40:18.987Z",
+  "updatedAt": "2026-11-04T08:40:32.999Z",
   "problems": [
     {
       "frontendId": "1",
@@ -964,6 +964,26 @@
           "path": "1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.java",
           "sha": "d3e3904151abcba0cad0715b2be2d02ab2fe0a64",
           "lastSyncedAt": "2026-11-04T08:22:08.685Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1413",
+      "title": "Minimum Value to Get Positive Step by Step Sum",
+      "slug": "minimum-value-to-get-positive-step-by-step-sum",
+      "problemName": "1413-minimum-value-to-get-positive-step-by-step-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/",
+      "folderPath": "1413-minimum-value-to-get-positive-step-by-step-sum/",
+      "readmePath": "1413-minimum-value-to-get-positive-step-by-step-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1413-minimum-value-to-get-positive-step-by-step-sum.java",
+          "path": "1413-minimum-value-to-get-positive-step-by-step-sum/1413-minimum-value-to-get-positive-step-by-step-sum.java",
+          "sha": "c6d16da8b69bb3539d2552b3be5db04d30e47285",
+          "lastSyncedAt": "2026-11-04T08:40:32.999Z"
         }
       ]
     },
