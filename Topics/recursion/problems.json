@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-04T08:10:21.880Z",
+  "updatedAt": "2026-11-04T08:10:30.851Z",
   "problems": [
     {
       "frontendId": "25",
@@ -44,6 +44,26 @@
           "path": "0050-powx-n/0050-powx-n.java",
           "sha": "ddcad8e6f5f5ec49f354064eed9f07a4d10fef23",
           "lastSyncedAt": "2026-11-04T08:10:02.155Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "326",
+      "title": "Power of Three",
+      "slug": "power-of-three",
+      "problemName": "0326-power-of-three",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-three/",
+      "folderPath": "0326-power-of-three/",
+      "readmePath": "0326-power-of-three/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0326-power-of-three.java",
+          "path": "0326-power-of-three/0326-power-of-three.java",
+          "sha": "4acc9852261c44dfb6d8ec746dccdb2c13df3331",
+          "lastSyncedAt": "2026-11-04T08:10:30.851Z"
         }
       ]
     },
