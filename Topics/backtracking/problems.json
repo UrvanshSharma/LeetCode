@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-04T08:08:15.969Z",
+  "updatedAt": "2026-11-04T08:08:39.523Z",
   "problems": [
     {
       "frontendId": "17",
@@ -224,6 +224,26 @@
           "path": "0078-subsets/0078-subsets.java",
           "sha": "56202726c632b8489c6475194ebf339ff0be13bc",
           "lastSyncedAt": "2026-11-04T08:07:50.986Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "79",
+      "title": "Word Search",
+      "slug": "word-search",
+      "problemName": "0079-word-search",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/word-search/",
+      "folderPath": "0079-word-search/",
+      "readmePath": "0079-word-search/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0079-word-search.java",
+          "path": "0079-word-search/0079-word-search.java",
+          "sha": "ea05a81131621e78bad7ba9c17669c7f51b407a8",
+          "lastSyncedAt": "2026-11-04T08:08:39.523Z"
         }
       ]
     },
