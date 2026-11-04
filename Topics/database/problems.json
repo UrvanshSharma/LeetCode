@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-04T08:41:48.053Z",
+  "updatedAt": "2026-11-04T08:41:56.887Z",
   "problems": [
     {
       "frontendId": "176",
@@ -24,6 +24,26 @@
           "path": "0176-second-highest-salary/0176-second-highest-salary.sql",
           "sha": "7d4e74928829acec8b8fb47ef35026f0433b5923",
           "lastSyncedAt": "2026-11-04T08:41:07.214Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "627",
+      "title": "Swap Sex of Employees",
+      "slug": "swap-sex-of-employees",
+      "problemName": "0627-swap-sex-of-employees",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/swap-sex-of-employees/",
+      "folderPath": "0627-swap-sex-of-employees/",
+      "readmePath": "0627-swap-sex-of-employees/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0627-swap-sex-of-employees.sql",
+          "path": "0627-swap-sex-of-employees/0627-swap-sex-of-employees.sql",
+          "sha": "f1cb19af405fdc5d0342e647f370d35a2bb08ede",
+          "lastSyncedAt": "2026-11-04T08:41:56.887Z"
         }
       ]
     },
