@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-04T08:31:22.117Z",
+  "updatedAt": "2026-11-04T08:31:32.875Z",
   "problems": [
     {
       "frontendId": "19",
@@ -264,6 +264,26 @@
           "path": "0725-split-linked-list-in-parts/0725-split-linked-list-in-parts.java",
           "sha": "9dbfbea218120e99fcd127e2d31046058a67de28",
           "lastSyncedAt": "2026-11-04T08:30:08.246Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1171",
+      "title": "Remove Zero Sum Consecutive Nodes from Linked List",
+      "slug": "remove-zero-sum-consecutive-nodes-from-linked-list",
+      "problemName": "1171-remove-zero-sum-consecutive-nodes-from-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/",
+      "folderPath": "1171-remove-zero-sum-consecutive-nodes-from-linked-list/",
+      "readmePath": "1171-remove-zero-sum-consecutive-nodes-from-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1171-remove-zero-sum-consecutive-nodes-from-linked-list.java",
+          "path": "1171-remove-zero-sum-consecutive-nodes-from-linked-list/1171-remove-zero-sum-consecutive-nodes-from-linked-list.java",
+          "sha": "0d89291d120deaad629918861bf7a49d26205409",
+          "lastSyncedAt": "2026-11-04T08:31:32.875Z"
         }
       ]
     },
