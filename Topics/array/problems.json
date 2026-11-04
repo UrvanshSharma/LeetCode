@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T08:06:57.091Z",
+  "updatedAt": "2026-11-04T08:07:18.023Z",
   "problems": [
     {
       "frontendId": "1",
@@ -84,6 +84,26 @@
           "path": "0036-valid-sudoku/0036-valid-sudoku.java",
           "sha": "c11b11a59a7faad52eb67fea1fc92c49da2da7f2",
           "lastSyncedAt": "2026-11-04T07:59:31.695Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "40",
+      "title": "Combination Sum II",
+      "slug": "combination-sum-ii",
+      "problemName": "0040-combination-sum-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum-ii/",
+      "folderPath": "0040-combination-sum-ii/",
+      "readmePath": "0040-combination-sum-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0040-combination-sum-ii.java",
+          "path": "0040-combination-sum-ii/0040-combination-sum-ii.java",
+          "sha": "bfcea0e07f6a26e50db30b8094fde94eb217d1a9",
+          "lastSyncedAt": "2026-11-04T08:07:18.023Z"
         }
       ]
     },
