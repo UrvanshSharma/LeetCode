@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-04T08:28:07.337Z",
+  "updatedAt": "2026-11-04T08:28:27.299Z",
   "problems": [
     {
       "frontendId": "67",
@@ -83,7 +83,7 @@
           "filename": "0231-power-of-two.java",
           "path": "0231-power-of-two/0231-power-of-two.java",
           "sha": "38374bde7276bade7762676825d40b7227788e43",
-          "lastSyncedAt": "2026-11-04T08:10:37.556Z"
+          "lastSyncedAt": "2026-11-04T08:28:27.299Z"
         }
       ]
     },
