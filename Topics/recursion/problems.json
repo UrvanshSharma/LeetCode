@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-04T08:05:08.020Z",
+  "updatedAt": "2026-11-04T08:10:02.155Z",
   "problems": [
     {
       "frontendId": "25",
@@ -24,6 +24,26 @@
           "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.java",
           "sha": "3252fb10f2e9d242fbbca8e4194d286b7300d385",
           "lastSyncedAt": "2026-11-04T08:05:08.020Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "problemName": "0050-powx-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+      "folderPath": "0050-powx-n/",
+      "readmePath": "0050-powx-n/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0050-powx-n.java",
+          "path": "0050-powx-n/0050-powx-n.java",
+          "sha": "ddcad8e6f5f5ec49f354064eed9f07a4d10fef23",
+          "lastSyncedAt": "2026-11-04T08:10:02.155Z"
         }
       ]
     },
