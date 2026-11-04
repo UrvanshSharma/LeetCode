@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-04T08:34:27.555Z",
+  "updatedAt": "2026-11-04T08:37:28.594Z",
   "problems": [
     {
       "frontendId": "4",
@@ -44,6 +44,26 @@
           "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.java",
           "sha": "78aec6a15c41c798286ee356f94881be52af3f83",
           "lastSyncedAt": "2026-11-04T08:30:54.093Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "problemName": "0053-maximum-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+      "folderPath": "0053-maximum-subarray/",
+      "readmePath": "0053-maximum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0053-maximum-subarray.java",
+          "path": "0053-maximum-subarray/0053-maximum-subarray.java",
+          "sha": "ead4a3f9c6665a7437cf24a52f0953ad6967dc50",
+          "lastSyncedAt": "2026-11-04T08:37:28.594Z"
         }
       ]
     },
