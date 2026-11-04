@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-04T08:40:41.769Z",
+  "updatedAt": "2026-11-04T08:45:09.523Z",
   "problems": [
     {
       "frontendId": "4",
@@ -64,6 +64,26 @@
           "path": "0069-sqrtx/0069-sqrtx.java",
           "sha": "8a2a775fbac02607a86f5d044febcc875387869b",
           "lastSyncedAt": "2026-11-04T08:24:48.601Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "153",
+      "title": "Find Minimum in Rotated Sorted Array",
+      "slug": "find-minimum-in-rotated-sorted-array",
+      "problemName": "0153-find-minimum-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+      "folderPath": "0153-find-minimum-in-rotated-sorted-array/",
+      "readmePath": "0153-find-minimum-in-rotated-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0153-find-minimum-in-rotated-sorted-array.java",
+          "path": "0153-find-minimum-in-rotated-sorted-array/0153-find-minimum-in-rotated-sorted-array.java",
+          "sha": "0380893b4a04dc116286a0b8c8cd106c00a40dd8",
+          "lastSyncedAt": "2026-11-04T08:45:09.523Z"
         }
       ]
     },
