@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "combinatorics",
+    "name": "Combinatorics",
+    "tagId": "61056"
+  },
+  "updatedAt": "2026-11-04T08:09:32.890Z",
+  "problems": [
+    {
+      "frontendId": "920",
+      "title": "Number of Music Playlists",
+      "slug": "number-of-music-playlists",
+      "problemName": "0920-number-of-music-playlists",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-music-playlists/",
+      "folderPath": "0920-number-of-music-playlists/",
+      "readmePath": "0920-number-of-music-playlists/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0920-number-of-music-playlists.java",
+          "path": "0920-number-of-music-playlists/0920-number-of-music-playlists.java",
+          "sha": "ef83bc23bf4bb4e5e561b4b44c7d260861889a3b",
+          "lastSyncedAt": "2026-11-04T08:09:32.890Z"
+        }
+      ]
+    }
+  ]
+}
