@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-04T08:10:45.848Z",
+  "updatedAt": "2026-11-04T08:11:39.257Z",
   "problems": [
     {
       "frontendId": "25",
@@ -44,6 +44,26 @@
           "path": "0050-powx-n/0050-powx-n.java",
           "sha": "ddcad8e6f5f5ec49f354064eed9f07a4d10fef23",
           "lastSyncedAt": "2026-11-04T08:10:02.155Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "143",
+      "title": "Reorder List",
+      "slug": "reorder-list",
+      "problemName": "0143-reorder-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorder-list/",
+      "folderPath": "0143-reorder-list/",
+      "readmePath": "0143-reorder-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0143-reorder-list.java",
+          "path": "0143-reorder-list/0143-reorder-list.java",
+          "sha": "243cd05b6d9b615224f1cd9e1d6b6e179d55204f",
+          "lastSyncedAt": "2026-11-04T08:11:39.257Z"
         }
       ]
     },
