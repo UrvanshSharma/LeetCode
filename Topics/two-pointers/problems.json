@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-04T08:33:33.835Z",
+  "updatedAt": "2026-11-04T08:33:54.177Z",
   "problems": [
     {
       "frontendId": "11",
@@ -224,6 +224,26 @@
           "path": "0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.java",
           "sha": "5e54c3da1776ebb6ff883dc2a04d07d6baac2bd8",
           "lastSyncedAt": "2026-11-04T08:18:44.581Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "0392-is-subsequence/",
+      "readmePath": "0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0392-is-subsequence.java",
+          "path": "0392-is-subsequence/0392-is-subsequence.java",
+          "sha": "9e824267bbc9545025ecb90757bd3d4ae3cd4a57",
+          "lastSyncedAt": "2026-11-04T08:33:54.177Z"
         }
       ]
     },
