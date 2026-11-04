@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-04T08:26:33.540Z",
+  "updatedAt": "2026-11-04T08:36:10.999Z",
   "problems": [
     {
       "frontendId": "36",
@@ -44,6 +44,26 @@
           "path": "0037-sudoku-solver/0037-sudoku-solver.java",
           "sha": "059adf4a24be305681a8cd8e8349e058ee61d9ca",
           "lastSyncedAt": "2026-11-04T08:26:20.290Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "48",
+      "title": "Rotate Image",
+      "slug": "rotate-image",
+      "problemName": "0048-rotate-image",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-image/",
+      "folderPath": "0048-rotate-image/",
+      "readmePath": "0048-rotate-image/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0048-rotate-image.java",
+          "path": "0048-rotate-image/0048-rotate-image.java",
+          "sha": "cbd66e31eadb504f296c051cf2a1225f709b8b07",
+          "lastSyncedAt": "2026-11-04T08:36:10.999Z"
         }
       ]
     },
