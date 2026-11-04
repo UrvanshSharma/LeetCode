@@ -5,8 +5,28 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-04T08:35:57.216Z",
+  "updatedAt": "2026-11-04T08:36:25.352Z",
   "problems": [
+    {
+      "frontendId": "76",
+      "title": "Minimum Window Substring",
+      "slug": "minimum-window-substring",
+      "problemName": "0076-minimum-window-substring",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
+      "folderPath": "0076-minimum-window-substring/",
+      "readmePath": "0076-minimum-window-substring/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0076-minimum-window-substring.java",
+          "path": "0076-minimum-window-substring/0076-minimum-window-substring.java",
+          "sha": "c0aec4b486a8efc8d241f3702f56e8eb1ed3b062",
+          "lastSyncedAt": "2026-11-04T08:36:25.352Z"
+        }
+      ]
+    },
     {
       "frontendId": "1343",
       "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
