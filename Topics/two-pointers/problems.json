@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-04T08:43:44.120Z",
+  "updatedAt": "2026-11-04T08:44:04.979Z",
   "problems": [
     {
       "frontendId": "5",
@@ -124,6 +124,26 @@
           "path": "0061-rotate-list/0061-rotate-list.java",
           "sha": "b28618e8bd7ca4d7bf4ac3a65592381011580978",
           "lastSyncedAt": "2026-11-04T08:43:30.335Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "0075-sort-colors/",
+      "readmePath": "0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0075-sort-colors.java",
+          "path": "0075-sort-colors/0075-sort-colors.java",
+          "sha": "fb43b376905e3d176eaa4c79881d335f82ecee66",
+          "lastSyncedAt": "2026-11-04T08:44:04.979Z"
         }
       ]
     },
