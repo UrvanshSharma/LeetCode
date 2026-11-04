@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-04T08:47:06.848Z",
+  "updatedAt": "2026-11-04T08:47:17.476Z",
   "problems": [
     {
       "frontendId": "3",
@@ -44,6 +44,26 @@
           "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.java",
           "sha": "60c5378216aaf1d4c3d839b77d20a93b821b500f",
           "lastSyncedAt": "2026-11-04T08:35:36.141Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "13",
+      "title": "Roman to Integer",
+      "slug": "roman-to-integer",
+      "problemName": "0013-roman-to-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
+      "folderPath": "0013-roman-to-integer/",
+      "readmePath": "0013-roman-to-integer/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0013-roman-to-integer.cpp",
+          "path": "0013-roman-to-integer/0013-roman-to-integer.cpp",
+          "sha": "0290931fd968a7b0dd21c612a8c47e707033275f",
+          "lastSyncedAt": "2026-11-04T08:47:17.476Z"
         }
       ]
     },
