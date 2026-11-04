@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-04T08:30:04.612Z",
+  "updatedAt": "2026-11-04T08:30:08.246Z",
   "problems": [
     {
       "frontendId": "19",
@@ -183,7 +183,7 @@
           "filename": "0725-split-linked-list-in-parts.java",
           "path": "0725-split-linked-list-in-parts/0725-split-linked-list-in-parts.java",
           "sha": "9dbfbea218120e99fcd127e2d31046058a67de28",
-          "lastSyncedAt": "2026-11-04T08:12:49.252Z"
+          "lastSyncedAt": "2026-11-04T08:30:08.246Z"
         }
       ]
     },
