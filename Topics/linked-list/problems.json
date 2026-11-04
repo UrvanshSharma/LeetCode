@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-04T08:31:40.655Z",
+  "updatedAt": "2026-11-04T08:31:58.244Z",
   "problems": [
     {
       "frontendId": "19",
@@ -244,6 +244,26 @@
           "path": "0206-reverse-linked-list/0206-reverse-linked-list.java",
           "sha": "d912e217ab264253680766d2ccd83fcf736a5164",
           "lastSyncedAt": "2026-11-04T08:30:32.085Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "382",
+      "title": "Linked List Random Node",
+      "slug": "linked-list-random-node",
+      "problemName": "0382-linked-list-random-node",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-random-node/",
+      "folderPath": "0382-linked-list-random-node/",
+      "readmePath": "0382-linked-list-random-node/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0382-linked-list-random-node.java",
+          "path": "0382-linked-list-random-node/0382-linked-list-random-node.java",
+          "sha": "16b07a839492b49e0734f9f667f0e993408341ea",
+          "lastSyncedAt": "2026-11-04T08:31:58.244Z"
         }
       ]
     },
