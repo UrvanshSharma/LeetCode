@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-04T08:31:32.875Z",
+  "updatedAt": "2026-11-04T08:32:15.524Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "0073-set-matrix-zeroes/0073-set-matrix-zeroes.java",
           "sha": "ad839c48b288b868d364af215c66a69f0468c41b",
           "lastSyncedAt": "2026-11-04T08:23:22.832Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "142",
+      "title": "Linked List Cycle II",
+      "slug": "linked-list-cycle-ii",
+      "problemName": "0142-linked-list-cycle-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "folderPath": "0142-linked-list-cycle-ii/",
+      "readmePath": "0142-linked-list-cycle-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0142-linked-list-cycle-ii.java",
+          "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.java",
+          "sha": "864e43b439917849d1836898bac083bc8c6c6822",
+          "lastSyncedAt": "2026-11-04T08:32:15.524Z"
         }
       ]
     },
