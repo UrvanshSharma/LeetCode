@@ -5,8 +5,28 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-04T08:37:42.336Z",
+  "updatedAt": "2026-11-04T08:38:05.223Z",
   "problems": [
+    {
+      "frontendId": "724",
+      "title": "Find Pivot Index",
+      "slug": "find-pivot-index",
+      "problemName": "0724-find-pivot-index",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index/",
+      "folderPath": "0724-find-pivot-index/",
+      "readmePath": "0724-find-pivot-index/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0724-find-pivot-index.java",
+          "path": "0724-find-pivot-index/0724-find-pivot-index.java",
+          "sha": "6f9b4b360bb388c4082f4a3e387f1dccf453fea9",
+          "lastSyncedAt": "2026-11-04T08:38:05.223Z"
+        }
+      ]
+    },
     {
       "frontendId": "1732",
       "title": "Find the Highest Altitude",
