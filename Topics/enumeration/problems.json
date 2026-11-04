@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "enumeration",
+    "name": "Enumeration",
+    "tagId": "61066"
+  },
+  "updatedAt": "2026-11-04T08:01:23.667Z",
+  "problems": [
+    {
+      "frontendId": "2778",
+      "title": "Sum of Squares of Special Elements ",
+      "slug": "sum-of-squares-of-special-elements",
+      "problemName": "2778-sum-of-squares-of-special-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-squares-of-special-elements/",
+      "folderPath": "2778-sum-of-squares-of-special-elements/",
+      "readmePath": "2778-sum-of-squares-of-special-elements/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2778-sum-of-squares-of-special-elements.java",
+          "path": "2778-sum-of-squares-of-special-elements/2778-sum-of-squares-of-special-elements.java",
+          "sha": "205327cb35996e0839a0d322684f536431932c54",
+          "lastSyncedAt": "2026-11-04T08:01:23.667Z"
+        }
+      ]
+    }
+  ]
+}
