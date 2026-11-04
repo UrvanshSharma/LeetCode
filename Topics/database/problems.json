@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-04T08:40:51.796Z",
+  "updatedAt": "2026-11-04T08:41:01.282Z",
   "problems": [
     {
       "frontendId": "1683",
@@ -24,6 +24,26 @@
           "path": "1683-invalid-tweets/1683-invalid-tweets.sql",
           "sha": "14756947479074f918e053e7d517ba0955fcdf15",
           "lastSyncedAt": "2026-11-04T08:40:51.796Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1729",
+      "title": "Find Followers Count",
+      "slug": "find-followers-count",
+      "problemName": "1729-find-followers-count",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-followers-count/",
+      "folderPath": "1729-find-followers-count/",
+      "readmePath": "1729-find-followers-count/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1729-find-followers-count.sql",
+          "path": "1729-find-followers-count/1729-find-followers-count.sql",
+          "sha": "810f47c936c4334f90e3013983fbad3ba64425ce",
+          "lastSyncedAt": "2026-11-04T08:41:01.282Z"
         }
       ]
     }
