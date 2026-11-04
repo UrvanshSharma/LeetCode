@@ -5,7 +5,7 @@
     "name": "Backtracking",
     "tagId": "14"
   },
-  "updatedAt": "2026-11-04T08:07:18.023Z",
+  "updatedAt": "2026-11-04T08:07:27.184Z",
   "problems": [
     {
       "frontendId": "17",
@@ -24,6 +24,26 @@
           "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.java",
           "sha": "7f43221102859eb33a088959fe9230c4eb16192b",
           "lastSyncedAt": "2026-11-04T08:07:04.399Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "39",
+      "title": "Combination Sum",
+      "slug": "combination-sum",
+      "problemName": "0039-combination-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+      "folderPath": "0039-combination-sum/",
+      "readmePath": "0039-combination-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0039-combination-sum.java",
+          "path": "0039-combination-sum/0039-combination-sum.java",
+          "sha": "de9882f1669e9c93d97a151e73916c75cd3062af",
+          "lastSyncedAt": "2026-11-04T08:07:27.184Z"
         }
       ]
     },
