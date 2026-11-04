@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-04T08:41:56.887Z",
+  "updatedAt": "2026-11-04T08:42:06.027Z",
   "problems": [
     {
       "frontendId": "176",
@@ -24,6 +24,26 @@
           "path": "0176-second-highest-salary/0176-second-highest-salary.sql",
           "sha": "7d4e74928829acec8b8fb47ef35026f0433b5923",
           "lastSyncedAt": "2026-11-04T08:41:07.214Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "619",
+      "title": "Biggest Single Number",
+      "slug": "biggest-single-number",
+      "problemName": "0619-biggest-single-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/biggest-single-number/",
+      "folderPath": "0619-biggest-single-number/",
+      "readmePath": "0619-biggest-single-number/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0619-biggest-single-number.sql",
+          "path": "0619-biggest-single-number/0619-biggest-single-number.sql",
+          "sha": "ed3b3daca313dd73f2d1079e5a10821748a32e9b",
+          "lastSyncedAt": "2026-11-04T08:42:06.027Z"
         }
       ]
     },
