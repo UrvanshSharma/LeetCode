@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-04T08:05:37.779Z",
+  "updatedAt": "2026-11-04T08:06:57.091Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "0001-two-sum/",
+      "readmePath": "0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0001-two-sum.java",
+          "path": "0001-two-sum/0001-two-sum.java",
+          "sha": "3ff42a6e4c0d010a3d8a10a0cd7f1082ea4b2e37",
+          "lastSyncedAt": "2026-11-04T08:06:57.091Z"
+        }
+      ]
+    },
     {
       "frontendId": "36",
       "title": "Valid Sudoku",
