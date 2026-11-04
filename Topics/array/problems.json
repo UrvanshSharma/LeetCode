@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T08:33:33.835Z",
+  "updatedAt": "2026-11-04T08:33:45.394Z",
   "problems": [
     {
       "frontendId": "1",
@@ -484,6 +484,26 @@
           "path": "0496-next-greater-element-i/0496-next-greater-element-i.java",
           "sha": "7e6780b8ac6e21b45fd53c861b019e125ee0f9c0",
           "lastSyncedAt": "2026-11-04T08:21:39.729Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "605",
+      "title": "Can Place Flowers",
+      "slug": "can-place-flowers",
+      "problemName": "0605-can-place-flowers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/can-place-flowers/",
+      "folderPath": "0605-can-place-flowers/",
+      "readmePath": "0605-can-place-flowers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0605-can-place-flowers.java",
+          "path": "0605-can-place-flowers/0605-can-place-flowers.java",
+          "sha": "c438b839d2c01ac14c424665292c7c9f35b8df7f",
+          "lastSyncedAt": "2026-11-04T08:33:45.394Z"
         }
       ]
     },
