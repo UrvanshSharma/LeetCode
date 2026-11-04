@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-04T08:20:22.785Z",
+  "updatedAt": "2026-11-04T08:30:54.093Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.java",
           "sha": "1524b1899d6e68150bd1328aed05fdce070d3288",
           "lastSyncedAt": "2026-11-04T08:20:22.785Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "23",
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "problemName": "0023-merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "folderPath": "0023-merge-k-sorted-lists/",
+      "readmePath": "0023-merge-k-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0023-merge-k-sorted-lists.java",
+          "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.java",
+          "sha": "78aec6a15c41c798286ee356f94881be52af3f83",
+          "lastSyncedAt": "2026-11-04T08:30:54.093Z"
         }
       ]
     },
