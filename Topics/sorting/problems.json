@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-04T08:43:55.880Z",
+  "updatedAt": "2026-11-04T08:44:04.979Z",
   "problems": [
     {
       "frontendId": "15",
@@ -44,6 +44,26 @@
           "path": "0047-permutations-ii/0047-permutations-ii.java",
           "sha": "94fc3f7164f5338552c8e33a7342af0e9ee72f02",
           "lastSyncedAt": "2026-11-04T08:26:06.227Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "0075-sort-colors/",
+      "readmePath": "0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0075-sort-colors.java",
+          "path": "0075-sort-colors/0075-sort-colors.java",
+          "sha": "fb43b376905e3d176eaa4c79881d335f82ecee66",
+          "lastSyncedAt": "2026-11-04T08:44:04.979Z"
         }
       ]
     },
