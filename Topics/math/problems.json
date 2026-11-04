@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-04T08:12:08.936Z",
+  "updatedAt": "2026-11-04T08:12:32.582Z",
   "problems": [
     {
       "frontendId": "7",
@@ -304,6 +304,26 @@
           "path": "0920-number-of-music-playlists/0920-number-of-music-playlists.java",
           "sha": "ef83bc23bf4bb4e5e561b4b44c7d260861889a3b",
           "lastSyncedAt": "2026-11-04T08:09:32.890Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2807",
+      "title": "Insert Greatest Common Divisors in Linked List",
+      "slug": "insert-greatest-common-divisors-in-linked-list",
+      "problemName": "2807-insert-greatest-common-divisors-in-linked-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/",
+      "folderPath": "2807-insert-greatest-common-divisors-in-linked-list/",
+      "readmePath": "2807-insert-greatest-common-divisors-in-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2807-insert-greatest-common-divisors-in-linked-list.java",
+          "path": "2807-insert-greatest-common-divisors-in-linked-list/2807-insert-greatest-common-divisors-in-linked-list.java",
+          "sha": "b349305cdc1cb5c2b37c92793aeef14bb1effa18",
+          "lastSyncedAt": "2026-11-04T08:12:32.582Z"
         }
       ]
     }
