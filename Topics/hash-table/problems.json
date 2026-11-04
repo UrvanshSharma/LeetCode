@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-04T08:11:19.386Z",
+  "updatedAt": "2026-11-04T08:11:59.472Z",
   "problems": [
     {
       "frontendId": "1",
@@ -224,6 +224,26 @@
           "path": "1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.java",
           "sha": "d3e3904151abcba0cad0715b2be2d02ab2fe0a64",
           "lastSyncedAt": "2026-11-04T08:03:22.875Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3217",
+      "title": "Delete Nodes From Linked List Present in Array",
+      "slug": "delete-nodes-from-linked-list-present-in-array",
+      "problemName": "3217-delete-nodes-from-linked-list-present-in-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/",
+      "folderPath": "3217-delete-nodes-from-linked-list-present-in-array/",
+      "readmePath": "3217-delete-nodes-from-linked-list-present-in-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3217-delete-nodes-from-linked-list-present-in-array.java",
+          "path": "3217-delete-nodes-from-linked-list-present-in-array/3217-delete-nodes-from-linked-list-present-in-array.java",
+          "sha": "038811b637d66a9ae4ae2fb194e670e68cbe4d78",
+          "lastSyncedAt": "2026-11-04T08:11:59.472Z"
         }
       ]
     }
