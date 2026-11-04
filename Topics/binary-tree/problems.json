@@ -5,7 +5,7 @@
     "name": "Binary Tree",
     "tagId": "61057"
   },
-  "updatedAt": "2026-11-04T07:59:16.712Z",
+  "updatedAt": "2026-11-04T08:00:32.490Z",
   "problems": [
     {
       "frontendId": "94",
@@ -183,7 +183,7 @@
           "filename": "0572-subtree-of-another-tree.java",
           "path": "0572-subtree-of-another-tree/0572-subtree-of-another-tree.java",
           "sha": "b25c1dce3ebbe23ee4a79d23932e091148768188",
-          "lastSyncedAt": "2026-11-03T01:24:24.473Z"
+          "lastSyncedAt": "2026-11-04T08:00:32.490Z"
         }
       ]
     }
