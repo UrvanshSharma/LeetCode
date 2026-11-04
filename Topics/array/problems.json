@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T08:34:16.622Z",
+  "updatedAt": "2026-11-04T08:34:27.555Z",
   "problems": [
     {
       "frontendId": "1",
@@ -604,6 +604,26 @@
           "path": "0739-daily-temperatures/0739-daily-temperatures.java",
           "sha": "149f913d51b85d722bcb4b0e3a28e436c2a3050d",
           "lastSyncedAt": "2026-11-04T08:17:40.132Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "912",
+      "title": "Sort an Array",
+      "slug": "sort-an-array",
+      "problemName": "0912-sort-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-an-array/",
+      "folderPath": "0912-sort-an-array/",
+      "readmePath": "0912-sort-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0912-sort-an-array.java",
+          "path": "0912-sort-an-array/0912-sort-an-array.java",
+          "sha": "feb09817df6277f4699f1cbd0922696c916c1be3",
+          "lastSyncedAt": "2026-11-04T08:34:27.555Z"
         }
       ]
     },
