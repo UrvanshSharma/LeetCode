@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-04T08:35:36.141Z",
+  "updatedAt": "2026-11-04T08:37:28.594Z",
   "problems": [
     {
       "frontendId": "5",
@@ -64,6 +64,26 @@
           "path": "0045-jump-game-ii/0045-jump-game-ii.java",
           "sha": "0c96c21e05c5c76f0bcc741c15ba00bf7b981fe3",
           "lastSyncedAt": "2026-11-04T08:26:50.282Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "problemName": "0053-maximum-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+      "folderPath": "0053-maximum-subarray/",
+      "readmePath": "0053-maximum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0053-maximum-subarray.java",
+          "path": "0053-maximum-subarray/0053-maximum-subarray.java",
+          "sha": "ead4a3f9c6665a7437cf24a52f0953ad6967dc50",
+          "lastSyncedAt": "2026-11-04T08:37:28.594Z"
         }
       ]
     },
