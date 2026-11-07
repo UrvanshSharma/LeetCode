@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 181 | 98 | 75 | 8 |
+| 182 | 99 | 75 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 6 days | 81 |
+| 1 days | 6 days | 82 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-07 | 2 |
 | 2026-10-11 | 3 |
 | 2026-10-12 | 1 |
 | 2026-10-13 | 1 |
@@ -29,12 +28,13 @@ Contains topicwise list of solved problems.
 | 2026-10-29 | 1 |
 | 2026-10-31 | 2 |
 | 2026-11-02 | 1 |
+| 2026-11-07 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 69 | 38% |
+| Array | 70 | 38% |
 | Linked List | 34 | 19% |
 | Two Pointers | 32 | 18% |
 | Hash Table | 29 | 16% |
@@ -42,15 +42,15 @@ Contains topicwise list of solved problems.
 | Math | 24 | 13% |
 | Binary Tree | 20 | 11% |
 | Tree | 20 | 11% |
+| Depth-First Search | 19 | 10% |
 | Database | 18 | 10% |
-| Depth-First Search | 18 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 3 |
-| [Array](Topics/array/) | 69 |
+| [Array](Topics/array/) | 70 |
 | [Backtracking](Topics/backtracking/) | 13 |
 | [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 3 |
@@ -59,7 +59,7 @@ Contains topicwise list of solved problems.
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 13 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 14 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
@@ -68,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Database](Topics/database/) | 18 |
-| [Depth-First Search](Topics/depth-first-search/) | 18 |
+| [Depth-First Search](Topics/depth-first-search/) | 19 |
 | [Design](Topics/design/) | 6 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 8 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
@@ -84,7 +84,7 @@ Contains topicwise list of solved problems.
 | [Linked List](Topics/linked-list/) | 34 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 24 |
-| [Matrix](Topics/matrix/) | 7 |
+| [Matrix](Topics/matrix/) | 8 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
