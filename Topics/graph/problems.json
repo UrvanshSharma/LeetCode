@@ -5,8 +5,28 @@
     "name": "Graph Theory",
     "tagId": "24"
   },
-  "updatedAt": "2026-11-04T08:15:35.689Z",
+  "updatedAt": "2026-11-07T11:04:14.062Z",
   "problems": [
+    {
+      "frontendId": "1791",
+      "title": "Find Center of Star Graph",
+      "slug": "find-center-of-star-graph",
+      "problemName": "1791-find-center-of-star-graph",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-center-of-star-graph/",
+      "folderPath": "1791-find-center-of-star-graph/",
+      "readmePath": "1791-find-center-of-star-graph/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1791-find-center-of-star-graph.java",
+          "path": "1791-find-center-of-star-graph/1791-find-center-of-star-graph.java",
+          "sha": "412fa5f1e6c3c948f35316372e5a2598b4d9de1f",
+          "lastSyncedAt": "2026-11-07T11:04:14.062Z"
+        }
+      ]
+    },
     {
       "frontendId": "1971",
       "title": "Find if Path Exists in Graph",
