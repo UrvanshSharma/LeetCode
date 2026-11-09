@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 182 | 99 | 75 | 8 |
+| 184 | 100 | 76 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 6 days | 82 |
+| 1 days | 6 days | 83 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-11 | 3 |
 | 2026-10-12 | 1 |
 | 2026-10-13 | 1 |
 | 2026-10-18 | 1 |
@@ -28,15 +27,16 @@ Contains topicwise list of solved problems.
 | 2026-10-29 | 1 |
 | 2026-10-31 | 2 |
 | 2026-11-02 | 1 |
-| 2026-11-07 | 1 |
+| 2026-11-07 | 2 |
+| 2026-11-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 70 | 38% |
-| Linked List | 34 | 19% |
-| Two Pointers | 32 | 18% |
+| Array | 71 | 39% |
+| Linked List | 34 | 18% |
+| Two Pointers | 32 | 17% |
 | Hash Table | 29 | 16% |
 | String | 26 | 14% |
 | Math | 24 | 13% |
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 3 |
-| [Array](Topics/array/) | 70 |
+| [Array](Topics/array/) | 71 |
 | [Backtracking](Topics/backtracking/) | 13 |
 | [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 3 |
@@ -75,7 +75,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 12 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 4 |
-| [Graph Theory](Topics/graph/) | 1 |
+| [Graph Theory](Topics/graph/) | 2 |
 | [Greedy](Topics/greedy/) | 6 |
 | [Hash Function](Topics/hash-function/) | 1 |
 | [Hash Table](Topics/hash-table/) | 29 |
@@ -87,7 +87,7 @@ Contains topicwise list of solved problems.
 | [Matrix](Topics/matrix/) | 8 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 2 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 3 |
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 2 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 2 |
@@ -102,7 +102,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 6 |
 | [Sliding Window](Topics/sliding-window/) | 8 |
 | [Sorting](Topics/sorting/) | 15 |
-| [Stack](Topics/stack/) | 17 |
+| [Stack](Topics/stack/) | 18 |
 | [String](Topics/string/) | 26 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
