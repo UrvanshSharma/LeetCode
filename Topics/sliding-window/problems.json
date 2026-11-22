@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-04T08:46:54.801Z",
+  "updatedAt": "2026-11-22T04:06:21.487Z",
   "problems": [
     {
       "frontendId": "3",
@@ -44,6 +44,26 @@
           "path": "0076-minimum-window-substring/0076-minimum-window-substring.java",
           "sha": "c0aec4b486a8efc8d241f3702f56e8eb1ed3b062",
           "lastSyncedAt": "2026-11-04T08:36:25.352Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "209",
+      "title": "Minimum Size Subarray Sum",
+      "slug": "minimum-size-subarray-sum",
+      "problemName": "0209-minimum-size-subarray-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+      "folderPath": "0209-minimum-size-subarray-sum/",
+      "readmePath": "0209-minimum-size-subarray-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0209-minimum-size-subarray-sum.java",
+          "path": "0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.java",
+          "sha": "3ba2fcd5002b26298dec0f35ef2de68a38e0c70b",
+          "lastSyncedAt": "2026-11-22T04:06:21.487Z"
         }
       ]
     },
