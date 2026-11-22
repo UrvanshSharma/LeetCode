@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 186 | 100 | 78 | 8 |
+| 187 | 100 | 79 | 8 |
 
 ## Activity
 
@@ -28,17 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-11-02 | 1 |
 | 2026-11-07 | 2 |
 | 2026-11-09 | 1 |
-| 2026-11-22 | 2 |
+| 2026-11-22 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 73 | 39% |
+| Array | 74 | 40% |
 | Linked List | 34 | 18% |
 | Two Pointers | 32 | 17% |
 | Hash Table | 30 | 16% |
-| String | 27 | 15% |
+| String | 27 | 14% |
 | Math | 24 | 13% |
 | Binary Tree | 20 | 11% |
 | Tree | 20 | 11% |
@@ -50,9 +50,9 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 3 |
-| [Array](Topics/array/) | 73 |
+| [Array](Topics/array/) | 74 |
 | [Backtracking](Topics/backtracking/) | 13 |
-| [Binary Search](Topics/binary-search/) | 10 |
+| [Binary Search](Topics/binary-search/) | 11 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 20 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 8 |
@@ -91,7 +91,7 @@ Contains topicwise list of solved problems.
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 2 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 2 |
-| [Prefix Sum](Topics/prefix-sum/) | 7 |
+| [Prefix Sum](Topics/prefix-sum/) | 8 |
 | [Queue](Topics/queue/) | 3 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 2 |
@@ -100,7 +100,7 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 14 |
 | [Reservoir Sampling](Topics/reservoir-sampling/) | 1 |
 | [Simulation](Topics/simulation/) | 6 |
-| [Sliding Window](Topics/sliding-window/) | 8 |
+| [Sliding Window](Topics/sliding-window/) | 9 |
 | [Sorting](Topics/sorting/) | 17 |
 | [Stack](Topics/stack/) | 18 |
 | [String](Topics/string/) | 27 |
