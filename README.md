@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 185 | 100 | 77 | 8 |
+| 186 | 100 | 78 | 8 |
 
 ## Activity
 
@@ -28,13 +28,13 @@ Contains topicwise list of solved problems.
 | 2026-11-02 | 1 |
 | 2026-11-07 | 2 |
 | 2026-11-09 | 1 |
-| 2026-11-22 | 1 |
+| 2026-11-22 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 72 | 39% |
+| Array | 73 | 39% |
 | Linked List | 34 | 18% |
 | Two Pointers | 32 | 17% |
 | Hash Table | 30 | 16% |
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 3 |
-| [Array](Topics/array/) | 72 |
+| [Array](Topics/array/) | 73 |
 | [Backtracking](Topics/backtracking/) | 13 |
 | [Binary Search](Topics/binary-search/) | 10 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 3 |
@@ -94,14 +94,14 @@ Contains topicwise list of solved problems.
 | [Prefix Sum](Topics/prefix-sum/) | 7 |
 | [Queue](Topics/queue/) | 3 |
 | [Quickselect](Topics/quickselect/) | 1 |
-| [Quicksort](Topics/quicksort/) | 1 |
+| [Quicksort](Topics/quicksort/) | 2 |
 | [Radix Sort](Topics/radix-sort/) | 1 |
 | [Randomized](Topics/randomized/) | 1 |
 | [Recursion](Topics/recursion/) | 14 |
 | [Reservoir Sampling](Topics/reservoir-sampling/) | 1 |
 | [Simulation](Topics/simulation/) | 6 |
 | [Sliding Window](Topics/sliding-window/) | 8 |
-| [Sorting](Topics/sorting/) | 16 |
+| [Sorting](Topics/sorting/) | 17 |
 | [Stack](Topics/stack/) | 18 |
 | [String](Topics/string/) | 27 |
 | [String Matching](Topics/string-matching/) | 2 |
