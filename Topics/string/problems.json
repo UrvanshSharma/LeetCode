@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-04T08:47:17.476Z",
+  "updatedAt": "2026-11-22T03:26:48.142Z",
   "problems": [
     {
       "frontendId": "3",
@@ -164,6 +164,26 @@
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "sha": "d3ac4bdef0bd5d2e761fe986a01141b9b5b5474d",
           "lastSyncedAt": "2026-11-04T08:39:25.512Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0049-group-anagrams.java",
+          "path": "0049-group-anagrams/0049-group-anagrams.java",
+          "sha": "9f98599198caed45b7dccdd092c368c78616db17",
+          "lastSyncedAt": "2026-11-22T03:26:48.142Z"
         }
       ]
     },
