@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-22T04:21:45.889Z",
+  "updatedAt": "2026-11-22T04:39:12.139Z",
   "problems": [
     {
       "frontendId": "3",
@@ -84,6 +84,26 @@
           "path": "0219-contains-duplicate-ii/0219-contains-duplicate-ii.cpp",
           "sha": "6e29c954dcdcf78c5dbb801bc6a6938810752f07",
           "lastSyncedAt": "2026-11-04T08:46:54.801Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "567",
+      "title": "Permutation in String",
+      "slug": "permutation-in-string",
+      "problemName": "0567-permutation-in-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutation-in-string/",
+      "folderPath": "0567-permutation-in-string/",
+      "readmePath": "0567-permutation-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0567-permutation-in-string.java",
+          "path": "0567-permutation-in-string/0567-permutation-in-string.java",
+          "sha": "72327dae4e9b54330d8ce5c6e6b3f2240fac277f",
+          "lastSyncedAt": "2026-11-22T04:39:12.139Z"
         }
       ]
     },
