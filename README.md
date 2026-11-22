@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 187 | 100 | 79 | 8 |
+| 188 | 101 | 79 | 8 |
 
 ## Activity
 
@@ -28,13 +28,13 @@ Contains topicwise list of solved problems.
 | 2026-11-02 | 1 |
 | 2026-11-07 | 2 |
 | 2026-11-09 | 1 |
-| 2026-11-22 | 3 |
+| 2026-11-22 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 74 | 40% |
+| Array | 75 | 40% |
 | Linked List | 34 | 18% |
 | Two Pointers | 32 | 17% |
 | Hash Table | 30 | 16% |
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 3 |
-| [Array](Topics/array/) | 74 |
+| [Array](Topics/array/) | 75 |
 | [Backtracking](Topics/backtracking/) | 13 |
 | [Binary Search](Topics/binary-search/) | 11 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 3 |
