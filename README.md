@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 188 | 101 | 79 | 8 |
+| 189 | 101 | 80 | 8 |
 
 ## Activity
 
@@ -28,13 +28,13 @@ Contains topicwise list of solved problems.
 | 2026-11-02 | 1 |
 | 2026-11-07 | 2 |
 | 2026-11-09 | 1 |
-| 2026-11-22 | 4 |
+| 2026-11-22 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 75 | 40% |
+| Array | 76 | 40% |
 | Linked List | 34 | 18% |
 | Two Pointers | 32 | 17% |
 | Hash Table | 30 | 16% |
@@ -50,9 +50,9 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 3 |
-| [Array](Topics/array/) | 75 |
+| [Array](Topics/array/) | 76 |
 | [Backtracking](Topics/backtracking/) | 13 |
-| [Binary Search](Topics/binary-search/) | 11 |
+| [Binary Search](Topics/binary-search/) | 12 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 20 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 8 |
@@ -91,7 +91,7 @@ Contains topicwise list of solved problems.
 | [Newton's Method](Topics/newtons-method/) | 1 |
 | [Number Theory](Topics/number-theory/) | 2 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 2 |
-| [Prefix Sum](Topics/prefix-sum/) | 8 |
+| [Prefix Sum](Topics/prefix-sum/) | 9 |
 | [Queue](Topics/queue/) | 3 |
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Quicksort](Topics/quicksort/) | 2 |
@@ -100,7 +100,7 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 14 |
 | [Reservoir Sampling](Topics/reservoir-sampling/) | 1 |
 | [Simulation](Topics/simulation/) | 6 |
-| [Sliding Window](Topics/sliding-window/) | 9 |
+| [Sliding Window](Topics/sliding-window/) | 10 |
 | [Sorting](Topics/sorting/) | 17 |
 | [Stack](Topics/stack/) | 18 |
 | [String](Topics/string/) | 27 |
