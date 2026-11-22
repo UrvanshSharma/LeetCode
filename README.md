@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 189 | 101 | 80 | 8 |
+| 190 | 101 | 81 | 8 |
 
 ## Activity
 
@@ -28,7 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-11-02 | 1 |
 | 2026-11-07 | 2 |
 | 2026-11-09 | 1 |
-| 2026-11-22 | 5 |
+| 2026-11-22 | 6 |
 
 ## Top Tags
 
@@ -36,14 +36,14 @@ Contains topicwise list of solved problems.
 | --- | ---: | ---: |
 | Array | 76 | 40% |
 | Linked List | 34 | 18% |
-| Two Pointers | 32 | 17% |
-| Hash Table | 30 | 16% |
-| String | 27 | 14% |
+| Two Pointers | 33 | 17% |
+| Hash Table | 31 | 16% |
+| String | 28 | 15% |
 | Math | 24 | 13% |
 | Binary Tree | 20 | 11% |
 | Tree | 20 | 11% |
 | Depth-First Search | 19 | 10% |
-| Database | 18 | 10% |
+| Database | 18 | 9% |
 
 ## Topics
 
@@ -78,7 +78,7 @@ Contains topicwise list of solved problems.
 | [Graph Theory](Topics/graph/) | 2 |
 | [Greedy](Topics/greedy/) | 6 |
 | [Hash Function](Topics/hash-function/) | 1 |
-| [Hash Table](Topics/hash-table/) | 30 |
+| [Hash Table](Topics/hash-table/) | 31 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 3 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 34 |
@@ -100,15 +100,15 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 14 |
 | [Reservoir Sampling](Topics/reservoir-sampling/) | 1 |
 | [Simulation](Topics/simulation/) | 6 |
-| [Sliding Window](Topics/sliding-window/) | 10 |
+| [Sliding Window](Topics/sliding-window/) | 11 |
 | [Sorting](Topics/sorting/) | 17 |
 | [Stack](Topics/stack/) | 18 |
-| [String](Topics/string/) | 27 |
+| [String](Topics/string/) | 28 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Tree](Topics/tree/) | 20 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 32 |
+| [Two Pointers](Topics/two-pointers/) | 33 |
 | [Union-Find](Topics/union-find/) | 1 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
