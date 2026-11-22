@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 190 | 101 | 81 | 8 |
+| 191 | 101 | 82 | 8 |
 
 ## Activity
 
@@ -28,21 +28,21 @@ Contains topicwise list of solved problems.
 | 2026-11-02 | 1 |
 | 2026-11-07 | 2 |
 | 2026-11-09 | 1 |
-| 2026-11-22 | 6 |
+| 2026-11-22 | 7 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 76 | 40% |
+| Array | 77 | 40% |
 | Linked List | 34 | 18% |
 | Two Pointers | 33 | 17% |
 | Hash Table | 31 | 16% |
 | String | 28 | 15% |
 | Math | 24 | 13% |
-| Binary Tree | 20 | 11% |
-| Tree | 20 | 11% |
-| Depth-First Search | 19 | 10% |
+| Binary Tree | 20 | 10% |
+| Depth-First Search | 20 | 10% |
+| Tree | 20 | 10% |
 | Database | 18 | 9% |
 
 ## Topics
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 3 |
-| [Array](Topics/array/) | 76 |
+| [Array](Topics/array/) | 77 |
 | [Backtracking](Topics/backtracking/) | 13 |
 | [Binary Search](Topics/binary-search/) | 12 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 3 |
@@ -59,7 +59,7 @@ Contains topicwise list of solved problems.
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 14 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 15 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
@@ -68,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Database](Topics/database/) | 18 |
-| [Depth-First Search](Topics/depth-first-search/) | 19 |
+| [Depth-First Search](Topics/depth-first-search/) | 20 |
 | [Design](Topics/design/) | 6 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 8 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
@@ -84,7 +84,7 @@ Contains topicwise list of solved problems.
 | [Linked List](Topics/linked-list/) | 34 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 24 |
-| [Matrix](Topics/matrix/) | 8 |
+| [Matrix](Topics/matrix/) | 9 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 3 |
@@ -109,6 +109,6 @@ Contains topicwise list of solved problems.
 | [Tree](Topics/tree/) | 20 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 33 |
-| [Union-Find](Topics/union-find/) | 1 |
+| [Union-Find](Topics/union-find/) | 2 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
