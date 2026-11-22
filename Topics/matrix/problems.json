@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-07T11:02:53.776Z",
+  "updatedAt": "2026-11-22T05:32:25.402Z",
   "problems": [
     {
       "frontendId": "36",
@@ -124,6 +124,26 @@
           "path": "0079-word-search/0079-word-search.java",
           "sha": "ea05a81131621e78bad7ba9c17669c7f51b407a8",
           "lastSyncedAt": "2026-11-04T08:26:33.540Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "200",
+      "title": "Number of Islands",
+      "slug": "number-of-islands",
+      "problemName": "0200-number-of-islands",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+      "folderPath": "0200-number-of-islands/",
+      "readmePath": "0200-number-of-islands/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0200-number-of-islands.java",
+          "path": "0200-number-of-islands/0200-number-of-islands.java",
+          "sha": "196a07e93c4843821b7512d4f1d874fc9f256e4c",
+          "lastSyncedAt": "2026-11-22T05:32:25.402Z"
         }
       ]
     },
