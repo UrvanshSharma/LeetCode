@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-22T04:06:21.487Z",
+  "updatedAt": "2026-11-22T04:21:45.889Z",
   "problems": [
     {
       "frontendId": "4",
@@ -204,6 +204,26 @@
           "path": "0611-valid-triangle-number/0611-valid-triangle-number.java",
           "sha": "3b8d7c583a123279511bd3a03388f3d850925aaf",
           "lastSyncedAt": "2026-11-04T08:27:34.734Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1004",
+      "title": "Max Consecutive Ones III",
+      "slug": "max-consecutive-ones-iii",
+      "problemName": "1004-max-consecutive-ones-iii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "folderPath": "1004-max-consecutive-ones-iii/",
+      "readmePath": "1004-max-consecutive-ones-iii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1004-max-consecutive-ones-iii.java",
+          "path": "1004-max-consecutive-ones-iii/1004-max-consecutive-ones-iii.java",
+          "sha": "0d6efa97af07298f954a57a4b848d59679f9486e",
+          "lastSyncedAt": "2026-11-22T04:21:45.889Z"
         }
       ]
     },
