@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 191 | 101 | 82 | 8 |
+| 192 | 101 | 83 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 6 days | 84 |
+| 2 days | 6 days | 85 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-13 | 1 |
 | 2026-10-18 | 1 |
 | 2026-10-19 | 2 |
 | 2026-10-20 | 2 |
@@ -29,6 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-11-07 | 2 |
 | 2026-11-09 | 1 |
 | 2026-11-22 | 7 |
+| 2026-11-23 | 1 |
 
 ## Top Tags
 
@@ -40,9 +40,9 @@ Contains topicwise list of solved problems.
 | Hash Table | 31 | 16% |
 | String | 28 | 15% |
 | Math | 24 | 13% |
-| Binary Tree | 20 | 10% |
-| Depth-First Search | 20 | 10% |
-| Tree | 20 | 10% |
+| Binary Tree | 21 | 11% |
+| Depth-First Search | 21 | 11% |
+| Tree | 21 | 11% |
 | Database | 18 | 9% |
 
 ## Topics
@@ -53,8 +53,8 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 77 |
 | [Backtracking](Topics/backtracking/) | 13 |
 | [Binary Search](Topics/binary-search/) | 12 |
-| [Binary Search Tree](Topics/binary-search-tree/) | 3 |
-| [Binary Tree](Topics/binary-tree/) | 20 |
+| [Binary Search Tree](Topics/binary-search-tree/) | 4 |
+| [Binary Tree](Topics/binary-tree/) | 21 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 8 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
@@ -68,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Dancing Links](Topics/dancing-links/) | 1 |
 | [Data Stream](Topics/data-stream/) | 1 |
 | [Database](Topics/database/) | 18 |
-| [Depth-First Search](Topics/depth-first-search/) | 20 |
+| [Depth-First Search](Topics/depth-first-search/) | 21 |
 | [Design](Topics/design/) | 6 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 8 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
@@ -106,7 +106,7 @@ Contains topicwise list of solved problems.
 | [String](Topics/string/) | 28 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
-| [Tree](Topics/tree/) | 20 |
+| [Tree](Topics/tree/) | 21 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 33 |
 | [Union-Find](Topics/union-find/) | 2 |
